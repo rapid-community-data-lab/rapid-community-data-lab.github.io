@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "RAPID-CDL"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: blog/index.qmd
+        text: Blog
+
+    right:
+      - href: about.qmd
+        text: About
+  site-url: "https://rapid-community-data-lab.github.io/"
+  description: "The RAPID-CDL blog: news, events, and WIP"
+
+format:
+  html:
+    theme: lightly
+    css: styles.css
+    toc: false
+    fontcolor: "#3e3023"
+
+
+

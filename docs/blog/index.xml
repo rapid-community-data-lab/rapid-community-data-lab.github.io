@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>RAPID-CDL</title>
+<link>https://rapid-community-data-lab.github.io/blog/</link>
+<atom:link href="https://rapid-community-data-lab.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>The RAPID-CDL blog: news, events, and WIP</description>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Tue, 24 Feb 2026 14:00:00 GMT</lastBuildDate>
+<item>
+  <title>Federal Parliament Speeches about the Job-Ready Graduates Bill</title>
+  <dc:creator>Naomi Barnes</dc:creator>
+  <link>https://rapid-community-data-lab.github.io/blog/posts/job-ready-graduates-announce/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is a post with executable code.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>data</category>
+  <guid>https://rapid-community-data-lab.github.io/blog/posts/job-ready-graduates-announce/</guid>
+  <pubDate>Tue, 24 Feb 2026 14:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <link>https://rapid-community-data-lab.github.io/blog/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://rapid-community-data-lab.github.io/blog/posts/welcome/</guid>
+  <pubDate>Sat, 21 Feb 2026 14:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
