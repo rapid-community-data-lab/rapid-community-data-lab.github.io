@@ -11,14 +11,14 @@
     "href": "index.html#what-are-we-working-on-right-now",
     "title": "RAPID-CDL",
     "section": "What are we working on right now?",
-    "text": "What are we working on right now?"
+    "text": "What are we working on right now?\nWe are building our website…..\nGetting in touch with researchers….\nE-introducing all our cats…"
   },
   {
     "objectID": "index.html#how-can-we-help-your-research",
     "href": "index.html#how-can-we-help-your-research",
     "title": "RAPID-CDL",
     "section": "How can we help your research?",
-    "text": "How can we help your research?\nExpression of interest form goes here."
+    "text": "How can we help your research?\nSubmit an expression of interest here"
   },
   {
     "objectID": "index.html#suggest-a-public-interest-dataset",
@@ -49,6 +49,13 @@
     "text": "Partners"
   },
   {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "RAPID-CDL Blog",
+    "section": "",
+    "text": "Federal Parliament Speeches about the Job-Ready Graduates Bill\n\n\n\n\n\nFeb 25, 2026\n\n\nNaomi Barnes\n\n1 min\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\nFeb 22, 2026\n\n\nTristan O’Malley\n\n1 min\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "blog/posts/welcome/index.html",
     "href": "blog/posts/welcome/index.html",
     "title": "Welcome To My Blog",
@@ -56,10 +63,10 @@
     "text": "This is the first post in a Quarto blog. Welcome!\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "RAPID-CDL Blog",
-    "section": "",
-    "text": "Federal Parliament Speeches about the Job-Ready Graduates Bill\n\n\n\n\n\n\n\n\nFeb 25, 2026\n\n\nNaomi Barnes\n\n\n1 min\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nFeb 22, 2026\n\n\nTristan O’Malley\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "RAPID-CDL",
+    "section": "Get in touch",
+    "text": "Get in touch\nSuggest a Public Interest dataset\nSign up for our newsletter\nYou can also follow our blog"
   }
 ]

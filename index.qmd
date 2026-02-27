@@ -5,17 +5,22 @@ title: "RAPID-CDL"
 Welcome to the Reusable and Accessible Public Interest Documents project, part of ARDC's Community Data Lab. The RAPID-CDL project aims to make public interest documents such as parliamentary proceedings, inquiry submissions, hearing transcripts, and ministerial records more accessible and usable for researchers across Australia. 
 
 ## What are we working on right now?
+We are building our website.....
+
+Getting in touch with researchers....
+
+E-introducing all our cats...
 
 
 ## How can we help your research?
 
-Expression of interest form goes here.
+[Submit an expression of interest here](https://tinyurl.com/RAPIDeoi)
 
 
-## Suggest a Public Interest Dataset
+## Get in touch
 
+[Suggest a Public Interest dataset](https://tinyurl.com/RAPIDeoi)
 
-## Sign up for our newsletter
-
+[Sign up for our newsletter](https://tinyurl.com/RAPIDeoi)
 
 You can also [follow our blog](blog/index.qmd)
