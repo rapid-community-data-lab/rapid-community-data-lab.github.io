@@ -1,18 +1,39 @@
 ---
 title: "RAPID-CDL Blog"
 listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-  feed: true
-  fields: [date, title, author, reading-time]
+  - id: main-blog
+    contents: posts
+    sort: "date desc"
+    type: default
+    categories: true
+    exclude:
+      categories: "working_on_now"
+    sort-ui: false
+    filter-ui: false
+    feed: true
+    fields: [date, title, author, reading-time, categories]
+    page-size: 10
+  - id: working-on-now
+    contents: posts
+    sort: "date desc"
+    type: default
+    include:
+      categories: "working_on_now"
+    sort-ui: false
+    filter-ui: false
+    feed: true
+    fields: [date, title]
+    page-size: 5
 page-layout: article
 title-block-banner: false
 ---
 
+:::{#main-blog}
+:::
 
+## What have we been working on?
+
+:::{#working-on-now}
+:::
 
 
