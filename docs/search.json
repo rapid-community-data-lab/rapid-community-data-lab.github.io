@@ -42,11 +42,11 @@
     "text": "news\n\ndata\n\n\n\n\n\n\nFeb 25, 2026\n\n\nNaomi Barnes\n\n1 min\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\nFeb 22, 2026\n\n\nTristan O’Malley\n\n1 min\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "blog/posts/welcome/index.html",
-    "href": "blog/posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "objectID": "blog/index.html#what-have-we-been-working-on",
+    "href": "blog/index.html#what-have-we-been-working-on",
+    "title": "RAPID-CDL Blog",
+    "section": "What have we been working on?",
+    "text": "What have we been working on?\n\n\n\n\n\n27 February 2026: What are we working on?\n\n\n\n\n\nFeb 27, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -63,17 +63,10 @@
     "text": "We are building our website…..\nGetting in touch with researchers….\nE-introducing all our cats…"
   },
   {
-    "objectID": "blog/index.html#what-were-we-working-on",
-    "href": "blog/index.html#what-were-we-working-on",
-    "title": "RAPID-CDL Blog",
-    "section": "What were we working on?",
-    "text": "What were we working on?\n\n\n\n\n\n27 February 2026: What are we working on?\n\n\n\n\n\nFeb 27, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/index.html#what-have-we-been-working-on",
-    "href": "blog/index.html#what-have-we-been-working-on",
-    "title": "RAPID-CDL Blog",
-    "section": "What have we been working on?",
-    "text": "What have we been working on?\n\n\n\n\n\n27 February 2026: What are we working on?\n\n\n\n\n\nFeb 27, 2026\n\n\n\n\n\nNo matching items"
+    "objectID": "blog/posts/welcome/index.html",
+    "href": "blog/posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
