@@ -53,10 +53,10 @@ The edit workflow is:
 ## Updating "What are we working on now?"
 
 1. Create a blog post with the desired content (in the "blog/posts" folder just like any other post)
-2. Ensure the metadata of the blog post includes the "working_on_now" category as below:
+2. Ensure the metadata of the blog post includes the `week_notes` category as below:
 
     ```
-    categories: [working_on_now]
+    categories: [week_notes]
     ```
 
     It can have other categories too if you like, and then it will show up in those category listings as well.
