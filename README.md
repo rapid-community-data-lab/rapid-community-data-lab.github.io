@@ -48,3 +48,25 @@ The edit workflow is:
 2. Render the changes with `quarto render` to render everything, or `quarto render path/to/file` for just the one.
 3. Preview changes by opening the output files (built into the `docs` folder)
 4. Use git to add, commit and push changes. You need to commit both the edited source files, and also the rendered outputs in the docs/ folder.
+
+
+## Updating "What are we working on now?"
+
+1. Create a blog post with the desired content (in the "blog/posts" folder just like any other post)
+2. Ensure the metadata of the blog post includes the `week_notes` category as below:
+
+    ```
+    categories: [week_notes]
+    ```
+
+    It can have other categories too if you like, and then it will show up in those category listings as well.
+3. Update the home page (`index.qml` in the main directory) to reference the new blog post:
+
+    ```
+    ## What are we working on right now?
+    {{< external ./blog/posts/[filename.qmd] shift-heading-level-by=1 >}}
+    ```
+
+That's it!
+
+The `external` quarto shortcode used to embed the post on the home page comes from the [External Extension for Quarto](https://github.com/mcanouil/quarto-external).
