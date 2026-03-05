@@ -36,4 +36,7 @@ title-block-banner: false
 :::{#week_notes}
 :::
 
+---
+
+[RAPID Blog RSS feed](index.xml)
 
