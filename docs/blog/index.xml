@@ -10,7 +10,62 @@
 <atom:link href="https://rapid-community-data-lab.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>The RAPID-CDL blog: news, events, and WIP</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Thu, 26 Feb 2026 14:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 14:00:00 GMT</lastBuildDate>
+<item>
+  <title>Federal Parliament Speeches about the Job-Ready Graduates Bill</title>
+  <dc:creator>Naomi Barnes</dc:creator>
+  <link>https://rapid-community-data-lab.github.io/blog/posts/job-ready-graduates-announce/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>What did Parliament actually say when it decided an Arts degree should cost up to $50,000?</p>
+<p><strong>We’ve just released a structured dataset of the Federal Parliamentary debate on the Job-ready Graduates Package, at a moment when there is a call for submissions to reverse the policy.</strong></p>
+<p>But before we rehearse the familiar arguments, it’s worth returning to the source. Often what is said in media commentary does not clearly match the practicalities of government. Before making assumptions, return to the source. It will ensure the strongest submission possible.</p>
+<p>Our project extracts Federal Hansard debates from the Parliament of Australia and converts them into clean, research-ready datasets.</p>
+<p>This one includes:</p>
+<ul>
+<li>Every parliamentary reference to the Job-ready Graduates reforms</li>
+<li>Full speech text (not excerpts)</li>
+<li>Speaker metadata</li>
+<li>Direct links back to the official record</li>
+</ul>
+<p>No scrolling through webpages. No copy-paste assembly. Just structured debate ready for analysis, teaching, journalism, or submission writing.</p>
+<p>If you’re preparing a submission, conducting research, teaching higher education policy, or simply want to check the rhetoric against the record, this dataset gives you the debate in a usable form.</p>
+<p>📎 <a href="https://zenodo.org/records/18946597">Dataset link</a></p>
+<p>📣 <a href="https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Education_and_Employment/ReverseJRG">Call for submissions</a></p>
+<p>We’re building an open project that makes parliamentary debate more accessible, searchable, and usable for researchers, educators, journalists and advocates.</p>
+<p>If you use it, let us know, and cite the dataset! And if you’d like access to similar datasets on other debates, <a href="https://forms.gle/q3DJRvSwM2rKr6a67">follow the project here</a>.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>data</category>
+  <guid>https://rapid-community-data-lab.github.io/blog/posts/job-ready-graduates-announce/</guid>
+  <pubDate>Wed, 11 Mar 2026 14:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>11 March 2026: What are we working on?</title>
+  <dc:creator>Eve Ansell</dc:creator>
+  <link>https://rapid-community-data-lab.github.io/blog/posts/2026-03-11_now.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Getting ready to release a dataset, pretty rapid, right?…..</p>
+<p>Thinking about raisins (<em>currantly</em>)….</p>
+<p>The cat thing still…</p>
+
+
+
+ ]]></description>
+  <category>week_notes</category>
+  <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-03-11_now.html</guid>
+  <pubDate>Tue, 10 Mar 2026 14:00:00 GMT</pubDate>
+</item>
 <item>
   <title>27 February 2026: What are we working on?</title>
   <dc:creator>Eve Ansell</dc:creator>
@@ -30,44 +85,6 @@
   <category>week_notes</category>
   <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-02-27_now.html</guid>
   <pubDate>Thu, 26 Feb 2026 14:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Federal Parliament Speeches about the Job-Ready Graduates Bill</title>
-  <dc:creator>Naomi Barnes</dc:creator>
-  <link>https://rapid-community-data-lab.github.io/blog/posts/job-ready-graduates-announce/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This is a post with executable code.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>data</category>
-  <guid>https://rapid-community-data-lab.github.io/blog/posts/job-ready-graduates-announce/</guid>
-  <pubDate>Tue, 24 Feb 2026 14:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://rapid-community-data-lab.github.io/blog/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://rapid-community-data-lab.github.io/blog/posts/welcome/</guid>
-  <pubDate>Sat, 21 Feb 2026 14:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

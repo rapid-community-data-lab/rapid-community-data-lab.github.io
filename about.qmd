@@ -2,4 +2,14 @@
 title: "About"
 ---
 
+Public interest documents such as parliamentary proceedings, inquiry submissions, hearing transcripts, and ministerial records remain difficult for researchers to use because they are typically released as isolated, human‑readable files with inconsistent formats, gaps, and limited metadata, creating a “last‑mile” barrier that demands significant technical expertise and often prevents ambitious research. The RAPID-CDL project addresses this by making these documents more accessible, establishing a FAIR‑aligned metadata standard, and creating documented workflows for both computational and qualitative research. 
+
+Built on the Language Data Commons of Australia architecture, the project will apply RO‑Crate tools and the Oni portal to public interest collections, expanding their usability and informing future enhancements. The work will benefit a broad range of humanities, social sciences, Indigenous studies, and civil society users.
+
+Expected outcomes include improved access to Federal Hansard and inquiry documents, a roadmap for extending coverage to all jurisdictions, searchable directories and indexes of inquiries and submissions, new research workflows, and sustainable practices for expanding public access to these vital records.
+
 # Partners
+
+Project partners include the University of Queensland, Queensland University of Technology, and QCIF Digital Research.
+
+This project is a co-investment partnership with the Australian Research Data Commons (ARDC) through the HASS and Indigenous Research Data Commons. The ARDC is enabled by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS).

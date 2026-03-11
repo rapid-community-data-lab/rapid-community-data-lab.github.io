@@ -31,7 +31,7 @@ title-block-banner: false
 :::{#main-blog}
 :::
 
-## What have we been working on?
+## Currently working updates
 
 :::{#week_notes}
 :::

@@ -11,49 +11,49 @@
     "href": "index.html#what-are-we-working-on-right-now",
     "title": "RAPID-CDL",
     "section": "What are we working on right now?",
-    "text": "What are we working on right now?\nWe are building our website…..\nGetting in touch with researchers….\nE-introducing all our cats…"
+    "text": "What are we working on right now?\nGetting ready to release a dataset, pretty rapid, right?…..\nThinking about raisins (currantly)….\nThe cat thing still…"
   },
   {
     "objectID": "index.html#how-can-we-help-your-research",
     "href": "index.html#how-can-we-help-your-research",
     "title": "RAPID-CDL",
     "section": "How can we help your research?",
-    "text": "How can we help your research?\nSubmit an expression of interest here"
+    "text": "How can we help your research?\nSubmit an expression of interest"
   },
   {
     "objectID": "index.html#get-in-touch",
     "href": "index.html#get-in-touch",
     "title": "RAPID-CDL",
     "section": "Get in touch",
-    "text": "Get in touch\nSuggest a Public Interest dataset\nSign up for our newsletter\nYou can also follow our blog"
+    "text": "Get in touch\nSuggest a Public Interest dataset\nSign up for our newsletter\nFollow our blog"
   },
   {
-    "objectID": "blog/posts/job-ready-graduates-announce/index.html",
-    "href": "blog/posts/job-ready-graduates-announce/index.html",
-    "title": "Federal Parliament Speeches about the Job-Ready Graduates Bill",
+    "objectID": "blog/posts/2026-03-11_now.html",
+    "href": "blog/posts/2026-03-11_now.html",
+    "title": "11 March 2026: What are we working on?",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Getting ready to release a dataset, pretty rapid, right?…..\nThinking about raisins (currantly)….\nThe cat thing still…"
   },
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "RAPID-CDL Blog",
     "section": "",
-    "text": "news\n\ndata\n\n\n\n\n\n\nFeb 25, 2026\n\n\nNaomi Barnes\n\n1 min\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\nFeb 22, 2026\n\n\nTristan O’Malley\n\n1 min\n\n\n\n\nNo matching items"
+    "text": "news\n\ndata\n\n\n\n\n\n\nMar 12, 2026\n\n\nNaomi Barnes\n\n2 min\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "blog/index.html#what-have-we-been-working-on",
-    "href": "blog/index.html#what-have-we-been-working-on",
+    "objectID": "blog/index.html#currently-working-updates",
+    "href": "blog/index.html#currently-working-updates",
     "title": "RAPID-CDL Blog",
-    "section": "What have we been working on?",
-    "text": "What have we been working on?\n\n\n\n\n\n27 February 2026: What are we working on?\n\n\n\n\n\nFeb 27, 2026\n\n\n\n\n\nNo matching items\n\n\nRAPID Blog RSS feed"
+    "section": "Currently working updates",
+    "text": "Currently working updates\n\n\n\n\n\n11 March 2026: What are we working on?\n\n\n\n\n\nMar 11, 2026\n\n\n\n\n\n\n\n27 February 2026: What are we working on?\n\n\n\n\n\nFeb 27, 2026\n\n\n\n\n\nNo matching items\n\n\nRAPID Blog RSS feed"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Partners"
+    "text": "Public interest documents such as parliamentary proceedings, inquiry submissions, hearing transcripts, and ministerial records remain difficult for researchers to use because they are typically released as isolated, human‑readable files with inconsistent formats, gaps, and limited metadata, creating a “last‑mile” barrier that demands significant technical expertise and often prevents ambitious research. The RAPID-CDL project addresses this by making these documents more accessible, establishing a FAIR‑aligned metadata standard, and creating documented workflows for both computational and qualitative research.\nBuilt on the Language Data Commons of Australia architecture, the project will apply RO‑Crate tools and the Oni portal to public interest collections, expanding their usability and informing future enhancements. The work will benefit a broad range of humanities, social sciences, Indigenous studies, and civil society users.\nExpected outcomes include improved access to Federal Hansard and inquiry documents, a roadmap for extending coverage to all jurisdictions, searchable directories and indexes of inquiries and submissions, new research workflows, and sustainable practices for expanding public access to these vital records.\n\nPartners\nProject partners include the University of Queensland, Queensland University of Technology, and QCIF Digital Research.\nThis project is a co-investment partnership with the Australian Research Data Commons (ARDC) through the HASS and Indigenous Research Data Commons. The ARDC is enabled by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS)."
   },
   {
     "objectID": "blog/posts/2026-02-27_now.html",
@@ -63,10 +63,10 @@
     "text": "We are building our website…..\nGetting in touch with researchers….\nE-introducing all our cats…"
   },
   {
-    "objectID": "blog/posts/welcome/index.html",
-    "href": "blog/posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "blog/posts/job-ready-graduates-announce/index.html",
+    "href": "blog/posts/job-ready-graduates-announce/index.html",
+    "title": "Federal Parliament Speeches about the Job-Ready Graduates Bill",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "What did Parliament actually say when it decided an Arts degree should cost up to $50,000?\nWe’ve just released a structured dataset of the Federal Parliamentary debate on the Job-ready Graduates Package, at a moment when there is a call for submissions to reverse the policy.\nBut before we rehearse the familiar arguments, it’s worth returning to the source. Often what is said in media commentary does not clearly match the practicalities of government. Before making assumptions, return to the source. It will ensure the strongest submission possible.\nOur project extracts Federal Hansard debates from the Parliament of Australia and converts them into clean, research-ready datasets.\nThis one includes:\n\nEvery parliamentary reference to the Job-ready Graduates reforms\nFull speech text (not excerpts)\nSpeaker metadata\nDirect links back to the official record\n\nNo scrolling through webpages. No copy-paste assembly. Just structured debate ready for analysis, teaching, journalism, or submission writing.\nIf you’re preparing a submission, conducting research, teaching higher education policy, or simply want to check the rhetoric against the record, this dataset gives you the debate in a usable form.\n📎 Dataset link\n📣 Call for submissions\nWe’re building an open project that makes parliamentary debate more accessible, searchable, and usable for researchers, educators, journalists and advocates.\nIf you use it, let us know, and cite the dataset! And if you’d like access to similar datasets on other debates, follow the project here."
   }
 ]
