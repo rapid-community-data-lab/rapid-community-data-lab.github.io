@@ -19,7 +19,7 @@ This one includes:
 - Every parliamentary reference to the Job-ready Graduates reforms
 - Full speech text (not excerpts)
 - Speaker metadata
-- Direct links back to the official record
+- Links back to the official transcripts
 
 No scrolling through webpages. No copy-paste assembly. Just structured debate ready for analysis, teaching, journalism, or submission writing.
 
