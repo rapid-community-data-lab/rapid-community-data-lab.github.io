@@ -1,0 +1,12 @@
+---
+title: "24 March 2026: What are we working on?"
+author: "Eve Ansell"
+date: "2026-03-24"
+categories: [week_notes]
+---
+
+Full steam ahead on the tech work! Data processing, ONI dev work, etc.....
+
+Several good chats with our HASS RI friends at LDaCA, AIO, and SIH....
+
+Planned our first "Work From QCIF Day"...

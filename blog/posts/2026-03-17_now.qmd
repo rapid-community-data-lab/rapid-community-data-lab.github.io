@@ -1,0 +1,12 @@
+---
+title: "17 March 2026: What are we working on?"
+author: "Eve Ansell"
+date: "2026-03-17"
+categories: [week_notes]
+---
+
+[Released a dataset!](https://zenodo.org/records/18946597) .....
+
+Just finished our SECOND internal demo (LDaCA & QCIF)....
+
+Finishing the first work packages report...

@@ -11,7 +11,7 @@
     "href": "index.html#what-are-we-working-on-right-now",
     "title": "RAPID-CDL",
     "section": "What are we working on right now?",
-    "text": "What are we working on right now?\nGetting ready to release a dataset, pretty rapid, right?…..\nThinking about raisins (currantly)….\nThe cat thing still…"
+    "text": "What are we working on right now?\nFull steam ahead on the tech work! Data processing, ONI dev work, etc…..\nSeveral good chats with our HASS RI friends at LDaCA, AIO, and SIH….\nPlanned our first “Work From QCIF Day”…"
   },
   {
     "objectID": "index.html#how-can-we-help-your-research",
@@ -26,6 +26,13 @@
     "title": "RAPID-CDL",
     "section": "Get in touch",
     "text": "Get in touch\nSuggest a Public Interest dataset\nSign up for our newsletter\nFollow our blog"
+  },
+  {
+    "objectID": "blog/posts/2026-03-24_now.html",
+    "href": "blog/posts/2026-03-24_now.html",
+    "title": "24 March 2026: What are we working on?",
+    "section": "",
+    "text": "Full steam ahead on the tech work! Data processing, ONI dev work, etc…..\nSeveral good chats with our HASS RI friends at LDaCA, AIO, and SIH….\nPlanned our first “Work From QCIF Day”…"
   },
   {
     "objectID": "blog/posts/2026-03-11_now.html",
@@ -46,7 +53,7 @@
     "href": "blog/index.html#currently-working-updates",
     "title": "RAPID-CDL Blog",
     "section": "Currently working updates",
-    "text": "Currently working updates\n\n\n\n\n\n11 March 2026: What are we working on?\n\n\n\n\n\nMar 11, 2026\n\n\n\n\n\n\n\n27 February 2026: What are we working on?\n\n\n\n\n\nFeb 27, 2026\n\n\n\n\n\nNo matching items\n\n\nRAPID Blog RSS feed"
+    "text": "Currently working updates\n\n\n\n\n\n24 March 2026: What are we working on?\n\n\n\n\n\nMar 24, 2026\n\n\n\n\n\n\n\n17 March 2026: What are we working on?\n\n\n\n\n\nMar 17, 2026\n\n\n\n\n\n\n\n11 March 2026: What are we working on?\n\n\n\n\n\nMar 11, 2026\n\n\n\n\n\n\n\n27 February 2026: What are we working on?\n\n\n\n\n\nFeb 27, 2026\n\n\n\n\n\nNo matching items\n\n\nRAPID Blog RSS feed"
   },
   {
     "objectID": "about.html",
@@ -63,10 +70,17 @@
     "text": "We are building our website…..\nGetting in touch with researchers….\nE-introducing all our cats…"
   },
   {
+    "objectID": "blog/posts/2026-03-17_now.html",
+    "href": "blog/posts/2026-03-17_now.html",
+    "title": "17 March 2026: What are we working on?",
+    "section": "",
+    "text": "Released a dataset! …..\nJust finished our SECOND internal demo (LDaCA & QCIF)….\nFinishing the first work packages report…"
+  },
+  {
     "objectID": "blog/posts/job-ready-graduates-announce/index.html",
     "href": "blog/posts/job-ready-graduates-announce/index.html",
     "title": "Federal Parliament Speeches about the Job-Ready Graduates Bill",
     "section": "",
-    "text": "What did Parliament actually say when it decided an Arts degree should cost up to $50,000?\nWe’ve just released a structured dataset of the Federal Parliamentary debate on the Job-ready Graduates Package, at a moment when there is a call for submissions to reverse the policy.\nBut before we rehearse the familiar arguments, it’s worth returning to the source. Often what is said in media commentary does not clearly match the practicalities of government. Before making assumptions, return to the source. It will ensure the strongest submission possible.\nOur project extracts Federal Hansard debates from the Parliament of Australia and converts them into clean, research-ready datasets.\nThis one includes:\n\nEvery parliamentary reference to the Job-ready Graduates reforms\nFull speech text (not excerpts)\nSpeaker metadata\nLinks back to the official transcripts\n\nNo scrolling through webpages. No copy-paste assembly. Just structured debate ready for analysis, teaching, journalism, or submission writing.\nIf you’re preparing a submission, conducting research, teaching higher education policy, or simply want to check the rhetoric against the record, this dataset gives you the debate in a usable form.\n📎 Dataset link\n📣 Call for submissions\nWe’re building an open project that makes parliamentary debate more accessible, searchable, and usable for researchers, educators, journalists and advocates.\nIf you use it, let us know, and cite the dataset! And if you’d like access to similar datasets on other debates, follow the project here."
+    "text": "What did Parliament actually say when it decided an Arts degree should cost up to $50,000?\nWe’ve just released a structured dataset of the Federal Parliamentary debate on the Job-ready Graduates Package, at a moment when there is a call for submissions to reverse the policy.\nBut before we rehearse the familiar arguments, it’s worth returning to the source. Often what is said in media commentary does not clearly match the practicalities of government. Before making assumptions, return to the source. It will ensure the strongest submission possible.\nOur project extracts Federal Hansard debates from the Parliament of Australia and converts them into clean, research-ready datasets.\nThis one includes:\n\nEvery parliamentary reference to the Job-ready Graduates reforms\nFull speech text (not excerpts)\nSpeaker metadata\nLinks back to the official transcripts\n\nNo scrolling through webpages. No copy-paste assembly. Just structured debate ready for analysis, teaching, journalism, or submission writing.\nIf you’re preparing a submission, conducting research, teaching higher education policy, or simply want to check the rhetoric against the record, this dataset gives you the debate in a usable form.\n📎 Dataset link\n📣 Call for submissions\nWe’re building an open project that makes parliamentary debate more accessible, searchable, and usable for researchers, educators, journalists and advocates.\nIf you use it, let us know, and cite the dataset! And if you’d like access to similar datasets on other debates, follow the project here.\nSee this on LinkedIn"
   }
 ]
