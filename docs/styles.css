@@ -21,6 +21,7 @@ body {
 	background-color: white;
 	max-width: 900px;
 	margin: 0 auto;
+	font-family: 'Times New Roman', serif;
 }
 
 #quarto-header {
@@ -29,5 +30,5 @@ body {
 }
 
 .navbar {
-	background-color: var(--main-color);}
+	background-color: var(--main-color);
 }
