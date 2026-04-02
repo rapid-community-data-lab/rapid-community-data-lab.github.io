@@ -3,7 +3,8 @@
   --main-color: #3e3023;
   --accent-color: #b0d4c7;
   --heading-color: #8e6944;
-  --bg-color: #beb6a4;
+  --bg-color: #B0D4C7;
+  --bg-color-old: #beb6a4;
 }
 
 
@@ -14,6 +15,11 @@ h1,h2,h3,h4,h5,h6 {
 
 html {
 	background-color: var(--bg-color);
+	background-image: url("documents-feature-black-transparent.png");
+	background-position: right;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 body {
