@@ -1,0 +1,21 @@
+---
+title: "QUT Hansard Workshop 14 April 2026"
+author: "Eve Ansell"
+date: "2026-04-15"
+categories: [news, workshop, hansard]
+image: false
+---
+
+_“The transcript is like a play and the video is like the interpretation of the play”_ - Naomi Barnes on Hansard’s “substantially verbatim” transcripts of parliamentary proceedings. 
+
+On Tuesday RAPID-CDL was hosted by QUT Centre for Justice with an invited audience including Centre for Justice, DMRC, Centre for Decent Work and Industry, Centre for Data Science, School of Education, Digital Child Centre of Excellence. 
+
+We presented a workshop on “Digital Humanities: a conversation between data science and qualitative research”, showcasing past, present, and future research workflows enabled by the RAPID-CDL project. 
+
+In the second part of the workshop we had conversations with the researchers in the room about pragmatic considerations in working with parliamentary proceedings, and the opportunities afforded by RAPID-CDL. We truly appreciate everyone's participation. We'll be incorporating everything we learned directly into ongoing work in the project.
+
+Half of the registered researchers had worked with parliamentary proceedings in a manual or qualitative way, and of those who had never worked with this data, more than half had not considered this as a data source. 
+
+RAPID-CDL takes care of some computing in order to enable researchers to get the most out of Hansard transcripts and other Public Interest documents. Contact us if you are interested!
+
+
