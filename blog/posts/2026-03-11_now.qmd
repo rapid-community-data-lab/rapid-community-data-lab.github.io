@@ -1,5 +1,5 @@
 ---
-title: "11 March 2026: What are we working on?"
+title: "11 Mar 2026: Currently working"
 author: "Eve Ansell"
 date: "2026-03-11"
 categories: [week_notes]
