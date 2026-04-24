@@ -1,10 +1,16 @@
 /* css styles */
 :root {
-  --main-color: #3e3023;
-  --accent-color: #b0d4c7;
-  --heading-color: #8e6944;
-  --bg-color: #B0D4C7;
-  --bg-color-old: #beb6a4;
+  --brand-blackish: #3E3023;
+  --brand-senategreen: #B0D4C7;
+  --brand-lightbrown: #BEB6A4;
+  --brand-midbrown: #8E6944;
+  --brand-whiteish: #F7F7F8;
+  --brand-darkblue: #0a2c4f;
+  --brand-greyblue: #5f6275;
+  --main-color:  var(--brand-blackish);
+  --accent-color: var(--brand-senategreen);
+  --heading-color: var(--brand-midbrown);
+  --bg-color: var(--brand-senategreen);
 }
 
 
@@ -13,9 +19,12 @@ h1,h2,h3,h4,h5,h6 {
 	border-left: 1em var(--accent-color);
 }
 
+
+main {margin-top: 0;}
+
 html {
 	background-color: var(--bg-color);
-	background-image: url("documents-feature-black-transparent.png");
+	background-image: url("documents-feature-brown-transparent.png");
 	background-position: right;
 	background-size: contain;
 	background-repeat: no-repeat;
@@ -36,5 +45,16 @@ body {
 }
 
 .navbar {
-	background-color: var(--main-color);
+	background-color: var(--brand-lightbrown);
+	margin-bottom: 4em;
 }
+
+#quarto-content a {color: var(--brand-darkblue);}
+#quarto-content a:visited {color: var(--brand-greyblue);}
+
+/* blog pagination buttons */
+.active .page-link {
+	background-color: var(--brand-senategreen);
+	border-color: var(--brand-senategreen);
+}
+

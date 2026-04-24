@@ -24,7 +24,7 @@ main {margin-top: 0;}
 
 html {
 	background-color: var(--bg-color);
-	background-image: url("documents-feature-black-transparent.png");
+	background-image: url("documents-feature-brown-transparent.png");
 	background-position: right;
 	background-size: contain;
 	background-repeat: no-repeat;
@@ -51,4 +51,10 @@ body {
 
 #quarto-content a {color: var(--brand-darkblue);}
 #quarto-content a:visited {color: var(--brand-greyblue);}
+
+/* blog pagination buttons */
+.active .page-link {
+	background-color: var(--brand-senategreen);
+	border-color: var(--brand-senategreen);
+}
 
