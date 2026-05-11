@@ -1,0 +1,12 @@
+---
+title: "8 May 2026: Currently working"
+author: "Eve Ansell"
+date: "2026-05-08"
+categories: [week_notes]
+---
+
+Crating continues.....
+
+Something about data verification. Which is to say.. making sure we know where our Federal Hansard gaps are....
+
+Making the website better, a good task for when we have no brain left for data wrangling...

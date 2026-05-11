@@ -9,8 +9,28 @@
 <link>https://rapid-community-data-lab.github.io/blog/</link>
 <atom:link href="https://rapid-community-data-lab.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>The RAPID-CDL blog: news, events, and WIP</description>
-<generator>quarto-1.9.37</generator>
-<lastBuildDate>Tue, 28 Apr 2026 14:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Thu, 07 May 2026 14:00:00 GMT</lastBuildDate>
+<item>
+  <title>8 May 2026: Currently working</title>
+  <dc:creator>Eve Ansell</dc:creator>
+  <link>https://rapid-community-data-lab.github.io/blog/posts/2026-05-08_now.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Crating continues…..</p>
+<p>Something about data verification. Which is to say.. making sure we know where our Federal Hansard gaps are….</p>
+<p>Making the website better, a good task for when we have no brain left for data wrangling…</p>
+
+
+
+ ]]></description>
+  <category>week_notes</category>
+  <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-05-08_now.html</guid>
+  <pubDate>Thu, 07 May 2026 14:00:00 GMT</pubDate>
+</item>
 <item>
   <title>29 Apr 2026: Currently working</title>
   <dc:creator>Eve Ansell</dc:creator>
