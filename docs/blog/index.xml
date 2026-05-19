@@ -10,7 +10,27 @@
 <atom:link href="https://rapid-community-data-lab.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>The RAPID-CDL blog: news, events, and WIP</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Mon, 11 May 2026 14:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 18 May 2026 14:00:00 GMT</lastBuildDate>
+<item>
+  <title>19 May 2026: Currently working</title>
+  <dc:creator>Eve Ansell</dc:creator>
+  <link>https://rapid-community-data-lab.github.io/blog/posts/2026-05-19_now.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Work from UQ day last week, we had so much fun brainstorming (whiteboard!) and having lunch we forgot to take a photo (sorry LinkedIn)…..</p>
+<p>Draft data portal deployed at QCIF - still lots to do but it’s fun to see something! It’s real!….</p>
+<p>RAIN…</p>
+
+
+
+ ]]></description>
+  <category>week_notes</category>
+  <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-05-19_now.html</guid>
+  <pubDate>Mon, 18 May 2026 14:00:00 GMT</pubDate>
+</item>
 <item>
   <title>12 May 2026: Currently working</title>
   <dc:creator>Eve Ansell</dc:creator>
