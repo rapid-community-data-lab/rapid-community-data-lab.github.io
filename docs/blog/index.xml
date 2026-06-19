@@ -10,7 +10,27 @@
 <atom:link href="https://rapid-community-data-lab.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>The RAPID-CDL blog: news, events, and WIP</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Wed, 10 Jun 2026 01:44:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 01:14:00 GMT</lastBuildDate>
+<item>
+  <title>19 Jun 2026: Currently working</title>
+  <dc:creator>Eve Ansell</dc:creator>
+  <link>https://rapid-community-data-lab.github.io/blog/posts/2026-06-19_now.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Loading…..</p>
+<p>Preparing for ResBaz….</p>
+<p>Getting ready to put data in our portal…</p>
+
+
+
+ ]]></description>
+  <category>week_notes</category>
+  <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-06-19_now.html</guid>
+  <pubDate>Fri, 19 Jun 2026 01:14:00 GMT</pubDate>
+</item>
 <item>
   <title>10 Jun 2026: Currently working</title>
   <dc:creator>Eve Ansell</dc:creator>
