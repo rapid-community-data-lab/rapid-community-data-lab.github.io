@@ -7,14 +7,16 @@ categories: [week_notes]
 
 Quotes from ResBaz QLD
 
-"Do 414 of these text files contain the first line of Waltzing Matilda?"
+"Do 414 of these text files contain the first line of Waltzing Matilda?" - Betsy
 
-"This corpus might contain a book about camel care. It probably doesn't though."
+"This corpus might contain a book about camel care. It probably doesn't though." - Sam
 
-"I wish I'd chosen a smaller example dataset."
+"I wish I'd chosen a smaller example dataset." - Sam
 
-"We need more chairs!"
+"I think we might need more chairs..." - Eve
 
-"I wrote down 'introduce self' so this is going well already."
+"We need more chairs!" - Eve
 
-"We have created an award called the 'Hames Award' for the most workshops at ResBaz. Here is your prize t-shirt!"
+"I wrote down 'introduce self' so this is going well already." - Sam
+
+"We have created an award called the 'Hames Award' for the most workshops at ResBaz. Here is your prize t-shirt!" - Maca
