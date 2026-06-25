@@ -10,7 +10,31 @@
 <atom:link href="https://rapid-community-data-lab.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>The RAPID-CDL blog: news, events, and WIP</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Fri, 19 Jun 2026 01:14:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 00:32:00 GMT</lastBuildDate>
+<item>
+  <title>25 Jun 2026: Currently working</title>
+  <dc:creator>Eve Ansell</dc:creator>
+  <link>https://rapid-community-data-lab.github.io/blog/posts/2026-06-25_now.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Quotes from ResBaz QLD</p>
+<p>“Do 414 of these text files contain the first line of Waltzing Matilda?”</p>
+<p>“This corpus might contain a book about camel care. It probably doesn’t though.”</p>
+<p>“I wish I’d chosen a smaller example dataset.”</p>
+<p>“We need more chairs!”</p>
+<p>“I wrote down ‘introduce self’ so this is going well already.”</p>
+<p>“We have created an award called the ‘Hames Award’ for the most workshops at ResBaz. Here is your prize t-shirt!”</p>
+
+
+
+ ]]></description>
+  <category>week_notes</category>
+  <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-06-25_now.html</guid>
+  <pubDate>Thu, 25 Jun 2026 00:32:00 GMT</pubDate>
+</item>
 <item>
   <title>19 Jun 2026: Currently working</title>
   <dc:creator>Eve Ansell</dc:creator>
