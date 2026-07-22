@@ -1,0 +1,15 @@
+---
+title: "22 Jul 2026: Currently working"
+author: "Eve Ansell"
+date: "2026-07-22 14:34"
+categories: [week_notes]
+---
+
+After a very busy few weeks including leave periods, we return to our week notes in a hopefully weekly fashion. Hopefully you didn't miss us too much. (If you skim past this part it looks like we did a lot of work very rapidly)
+
+... The data portal is ready for data!
+
+... We put data in the data portal!
+
+... Immediately we notice Things about the data portal!
+

@@ -11,7 +11,7 @@
     "href": "index.html#what-are-we-working-on-right-now",
     "title": "RAPID-CDL",
     "section": "What are we working on right now?",
-    "text": "What are we working on right now?\nQuotes from ResBaz QLD\n“Do 414 of these text files contain the first line of Waltzing Matilda?” - Betsy\n“This corpus might contain a book about camel care. It probably doesn’t though.” - Sam\n“I wish I’d chosen a smaller example dataset.” - Sam\n“I think we might need more chairs…” - Eve\n“We need more chairs!” - Eve\n“I wrote down ‘introduce self’ so this is going well already.” - Sam\n“We have created an award called the ‘Hames Award’ for the most workshops at ResBaz. Here is your prize t-shirt!” - Maca"
+    "text": "What are we working on right now?\nAfter a very busy few weeks including leave periods, we return to our week notes in a hopefully weekly fashion. Hopefully you didn’t miss us too much. (If you skim past this part it looks like we did a lot of work very rapidly)\n… The data portal is ready for data!\n… We put data in the data portal!\n… Immediately we notice Things about the data portal!"
   },
   {
     "objectID": "index.html#how-can-we-help-your-research",
@@ -35,60 +35,74 @@
     "text": "What did Parliament actually say when it decided an Arts degree should cost up to $50,000?\nWe’ve just released a structured dataset of the Federal Parliamentary debate on the Job-ready Graduates Package, at a moment when there is a call for submissions to reverse the policy.\nBut before we rehearse the familiar arguments, it’s worth returning to the source. Often what is said in media commentary does not clearly match the practicalities of government. Before making assumptions, return to the source. It will ensure the strongest submission possible.\nOur project extracts Federal Hansard debates from the Parliament of Australia and converts them into clean, research-ready datasets.\nThis one includes:\n\nEvery parliamentary reference to the Job-ready Graduates reforms\nFull speech text (not excerpts)\nSpeaker metadata\nLinks back to the official transcripts\n\nNo scrolling through webpages. No copy-paste assembly. Just structured debate ready for analysis, teaching, journalism, or submission writing.\nIf you’re preparing a submission, conducting research, teaching higher education policy, or simply want to check the rhetoric against the record, this dataset gives you the debate in a usable form.\n📎 Dataset link\n📣 Call for submissions\nWe’re building an open project that makes parliamentary debate more accessible, searchable, and usable for researchers, educators, journalists and advocates.\nIf you use it, let us know, and cite the dataset! And if you’d like access to similar datasets on other debates, follow the project here.\nSee this on LinkedIn"
   },
   {
-    "objectID": "blog/posts/2026-06-19_now.html",
-    "href": "blog/posts/2026-06-19_now.html",
-    "title": "19 Jun 2026: Currently working",
+    "objectID": "blog/posts/2026-06-25_now.html",
+    "href": "blog/posts/2026-06-25_now.html",
+    "title": "25 Jun 2026: Currently working",
     "section": "",
-    "text": "Loading…..\nPreparing for ResBaz….\nGetting ready to put data in our portal…"
+    "text": "Quotes from ResBaz QLD\n“Do 414 of these text files contain the first line of Waltzing Matilda?” - Betsy\n“This corpus might contain a book about camel care. It probably doesn’t though.” - Sam\n“I wish I’d chosen a smaller example dataset.” - Sam\n“I think we might need more chairs…” - Eve\n“We need more chairs!” - Eve\n“I wrote down ‘introduce self’ so this is going well already.” - Sam\n“We have created an award called the ‘Hames Award’ for the most workshops at ResBaz. Here is your prize t-shirt!” - Maca"
   },
   {
-    "objectID": "blog/posts/2026-06-02_now.html",
-    "href": "blog/posts/2026-06-02_now.html",
-    "title": "2 Jun 2026: Currently working",
+    "objectID": "blog/posts/2026-06-10_now.html",
+    "href": "blog/posts/2026-06-10_now.html",
+    "title": "10 Jun 2026: Currently working",
     "section": "",
-    "text": "Eve has used up all her words and needs help writing the week notes…..\nThe cold weather has made all of our pets much more involved in our work….\nIt’s JUNE…"
+    "text": "Preparing for ResBaz (23-25 June QUT KG, come visit)…..\nWP7.1 & WP8.1 has been sent to various places for review….\nAgonising over metadata. More agonising to come…"
   },
   {
-    "objectID": "blog/posts/2026-05-19_now.html",
-    "href": "blog/posts/2026-05-19_now.html",
-    "title": "19 May 2026: Currently working",
+    "objectID": "blog/posts/2026-05-26_now.html",
+    "href": "blog/posts/2026-05-26_now.html",
+    "title": "26 May 2026: Currently working",
     "section": "",
-    "text": "Work from UQ day last week, we had so much fun brainstorming (whiteboard!) and having lunch we forgot to take a photo (sorry LinkedIn)…..\nDraft data portal deployed at QCIF - still lots to do but it’s fun to see something! It’s real!….\nRAIN…"
+    "text": "Meeting note: “how much weirdness do we want to standardise?”…..\nMeeting note: “playing whackamole with getting the plain text transcripts together”….\nMeeting note: “called time on prepping the text”…"
   },
   {
-    "objectID": "blog/posts/2026-05-08_now.html",
-    "href": "blog/posts/2026-05-08_now.html",
-    "title": "8 May 2026: Currently working",
+    "objectID": "blog/posts/2026-05-12_now.html",
+    "href": "blog/posts/2026-05-12_now.html",
+    "title": "12 May 2026: Currently working",
     "section": "",
-    "text": "Crating continues…..\nSomething about data verification. Which is to say.. making sure we know where our Federal Hansard gaps are….\nMaking the website better, a good task for when we have no brain left for data wrangling…"
+    "text": "New scoping document dropped - scoping the searchable index of public inquiries…..\nWrestling with bureaucratic document management and provenance 💪….\nWe missed Marissa!…"
   },
   {
-    "objectID": "blog/posts/2026-04-22_now.html",
-    "href": "blog/posts/2026-04-22_now.html",
-    "title": "22 Apr 2026: Currently working",
+    "objectID": "blog/posts/2026-04-29_now.html",
+    "href": "blog/posts/2026-04-29_now.html",
+    "title": "29 Apr 2026: Currently working",
     "section": "",
-    "text": "QUT-internal Hansard workshop! Attendees: 16, project team members: 6, hours of fun: 2 (there’s a priceless joke in there somewhere)…..\nCaught up with CDL Enhanced Analytics, who are working on OCR for colonial Hansards….\nFeels good to have brackets back…"
+    "text": "Met with our Expert Advisory Board, still processing all the great input…..\nAsked for numbers from the Productivity Commission work, but they’re too exciting, so they’ll get their own blog at some point….\nAsparagus…"
   },
   {
-    "objectID": "blog/posts/2026-04-10_now.html",
-    "href": "blog/posts/2026-04-10_now.html",
-    "title": "10 Apr 2026: Currently working",
+    "objectID": "blog/posts/2026-04-17_now.html",
+    "href": "blog/posts/2026-04-17_now.html",
+    "title": "14 Apr 2026: Currently working",
     "section": "",
-    "text": "Hansard workshop at QUT next week with a LOT of Centres invited…..\nFinally got around to adding a background thank you Betsy….\nUsed up the allocation of brackets in last week’s post so now we’ll need to get by without for a while sorry if anything looks weird…"
+    "text": "QUT-internal Hansard workshop! Went great. Update later, rest now…..\nZzzz….\nZzz…"
   },
   {
-    "objectID": "blog/posts/2026-03-24_now.html",
-    "href": "blog/posts/2026-03-24_now.html",
-    "title": "24 Mar 2026: Currently working",
+    "objectID": "blog/posts/2026-04-02_now.html",
+    "href": "blog/posts/2026-04-02_now.html",
+    "title": "2 Apr 2026: Currently working",
     "section": "",
-    "text": "Full steam ahead on the tech work! Data processing, ONI dev work, etc…..\nSeveral good chats with our HASS research infrastructure (RI) friends at LDaCA, AIO, and SIH….\nPlanned our first “Work From QCIF Day”…"
+    "text": "Work from QCIF was great (breakfast for lunch!) with a surprise Pawsey friend…..\nARDC/LDaCA engagement meeting: anything that lowers the perceived barrier to entry is good (from an Eve scribble, not a direct quote)….\nThe cats have synced their calendars for coordinated daily yelling (11am, in case you’re curious)…"
   },
   {
-    "objectID": "blog/posts/2026-03-11_now.html",
-    "href": "blog/posts/2026-03-11_now.html",
-    "title": "11 Mar 2026: Currently working",
+    "objectID": "blog/posts/2026-03-17_now.html",
+    "href": "blog/posts/2026-03-17_now.html",
+    "title": "17 Mar 2026: Currently working",
     "section": "",
-    "text": "Getting ready to release a dataset, pretty rapid, right?…..\nThinking about raisins (currantly)….\nThe cat thing still…"
+    "text": "Released a dataset! …..\nJust finished our SECOND internal demo (LDaCA & QCIF)….\nFinishing the first work packages report…"
+  },
+  {
+    "objectID": "blog/posts/2026-02-27_now.html",
+    "href": "blog/posts/2026-02-27_now.html",
+    "title": "27 Feb 2026: Currently working",
+    "section": "",
+    "text": "We are building our website…..\nGetting in touch with researchers….\nE-introducing all our cats…"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Public interest documents such as parliamentary proceedings, inquiry submissions, hearing transcripts, and ministerial records remain difficult for researchers to use because they are typically released as isolated, human‑readable files with inconsistent formats, gaps, and limited metadata, creating a “last‑mile” barrier that demands significant technical expertise and often prevents ambitious research. The RAPID-CDL project addresses this by making these documents more accessible, establishing a FAIR‑aligned metadata standard, and creating documented workflows for both computational and qualitative research.\nBuilt on the Language Data Commons of Australia architecture, the project will apply RO‑Crate tools and the Oni portal to public interest collections, expanding their usability and informing future enhancements. The work will benefit a broad range of humanities, social sciences, Indigenous studies, and civil society users.\nExpected outcomes include improved access to Federal Hansard and inquiry documents, a roadmap for extending coverage to all jurisdictions, searchable directories and indexes of inquiries and submissions, new research workflows, and sustainable practices for expanding public access to these vital records.\n\nPartners\nProject partners include the University of Queensland, Queensland University of Technology, and QCIF Digital Research.\nThis project is a co-investment partnership with the Australian Research Data Commons (ARDC) through the HASS and Indigenous Research Data Commons. The ARDC is enabled by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS)."
   },
   {
     "objectID": "blog/index.html",
@@ -102,77 +116,70 @@
     "href": "blog/index.html#currently-working-updates",
     "title": "RAPID-CDL Blog",
     "section": "Currently working updates",
-    "text": "Currently working updates\n\n\n\n\n\n25 Jun 2026: Currently working\n\n\n\n\n\nJun 25, 2026\n\n\n\n\n\n\n\n19 Jun 2026: Currently working\n\n\n\n\n\nJun 19, 2026\n\n\n\n\n\n\n\n10 Jun 2026: Currently working\n\n\n\n\n\nJun 10, 2026\n\n\n\n\n\n\n\n2 Jun 2026: Currently working\n\n\n\n\n\nJun 2, 2026\n\n\n\n\n\n\n\n26 May 2026: Currently working\n\n\n\n\n\nMay 26, 2026\n\n\n\n\n\n\n\n19 May 2026: Currently working\n\n\n\n\n\nMay 19, 2026\n\n\n\n\n\n\n\n12 May 2026: Currently working\n\n\n\n\n\nMay 12, 2026\n\n\n\n\n\n\n\n8 May 2026: Currently working\n\n\n\n\n\nMay 8, 2026\n\n\n\n\n\n\n\n29 Apr 2026: Currently working\n\n\n\n\n\nApr 29, 2026\n\n\n\n\n\n\n\n22 Apr 2026: Currently working\n\n\n\n\n\nApr 22, 2026\n\n\n\n\n\n\n\n14 Apr 2026: Currently working\n\n\n\n\n\nApr 14, 2026\n\n\n\n\n\n\n\n10 Apr 2026: Currently working\n\n\n\n\n\nApr 10, 2026\n\n\n\n\n\n\n\n2 Apr 2026: Currently working\n\n\n\n\n\nApr 2, 2026\n\n\n\n\n\n\n\n24 Mar 2026: Currently working\n\n\n\n\n\nMar 24, 2026\n\n\n\n\n\n\n\n17 Mar 2026: Currently working\n\n\n\n\n\nMar 17, 2026\n\n\n\n\n\n\n\n11 Mar 2026: Currently working\n\n\n\n\n\nMar 11, 2026\n\n\n\n\n\n\n\n27 Feb 2026: Currently working\n\n\n\n\n\nFeb 27, 2026\n\n\n\n\n\nNo matching items\n\n  \n\n\n\nRAPID Blog RSS feed"
+    "text": "Currently working updates\n\n\n\n\n\n22 Jul 2026: Currently working\n\n\n\n\n\nJul 22, 2026\n\n\n\n\n\n\n\n25 Jun 2026: Currently working\n\n\n\n\n\nJun 25, 2026\n\n\n\n\n\n\n\n19 Jun 2026: Currently working\n\n\n\n\n\nJun 19, 2026\n\n\n\n\n\n\n\n10 Jun 2026: Currently working\n\n\n\n\n\nJun 10, 2026\n\n\n\n\n\n\n\n2 Jun 2026: Currently working\n\n\n\n\n\nJun 2, 2026\n\n\n\n\n\n\n\n26 May 2026: Currently working\n\n\n\n\n\nMay 26, 2026\n\n\n\n\n\n\n\n19 May 2026: Currently working\n\n\n\n\n\nMay 19, 2026\n\n\n\n\n\n\n\n12 May 2026: Currently working\n\n\n\n\n\nMay 12, 2026\n\n\n\n\n\n\n\n8 May 2026: Currently working\n\n\n\n\n\nMay 8, 2026\n\n\n\n\n\n\n\n29 Apr 2026: Currently working\n\n\n\n\n\nApr 29, 2026\n\n\n\n\n\n\n\n22 Apr 2026: Currently working\n\n\n\n\n\nApr 22, 2026\n\n\n\n\n\n\n\n14 Apr 2026: Currently working\n\n\n\n\n\nApr 14, 2026\n\n\n\n\n\n\n\n10 Apr 2026: Currently working\n\n\n\n\n\nApr 10, 2026\n\n\n\n\n\n\n\n2 Apr 2026: Currently working\n\n\n\n\n\nApr 2, 2026\n\n\n\n\n\n\n\n24 Mar 2026: Currently working\n\n\n\n\n\nMar 24, 2026\n\n\n\n\n\n\n\n17 Mar 2026: Currently working\n\n\n\n\n\nMar 17, 2026\n\n\n\n\n\n\n\n11 Mar 2026: Currently working\n\n\n\n\n\nMar 11, 2026\n\n\n\n\n\n\n\n27 Feb 2026: Currently working\n\n\n\n\n\nFeb 27, 2026\n\n\n\n\n\nNo matching items\n\n  \n\n\n\nRAPID Blog RSS feed"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "blog/posts/2026-03-11_now.html",
+    "href": "blog/posts/2026-03-11_now.html",
+    "title": "11 Mar 2026: Currently working",
     "section": "",
-    "text": "Public interest documents such as parliamentary proceedings, inquiry submissions, hearing transcripts, and ministerial records remain difficult for researchers to use because they are typically released as isolated, human‑readable files with inconsistent formats, gaps, and limited metadata, creating a “last‑mile” barrier that demands significant technical expertise and often prevents ambitious research. The RAPID-CDL project addresses this by making these documents more accessible, establishing a FAIR‑aligned metadata standard, and creating documented workflows for both computational and qualitative research.\nBuilt on the Language Data Commons of Australia architecture, the project will apply RO‑Crate tools and the Oni portal to public interest collections, expanding their usability and informing future enhancements. The work will benefit a broad range of humanities, social sciences, Indigenous studies, and civil society users.\nExpected outcomes include improved access to Federal Hansard and inquiry documents, a roadmap for extending coverage to all jurisdictions, searchable directories and indexes of inquiries and submissions, new research workflows, and sustainable practices for expanding public access to these vital records.\n\nPartners\nProject partners include the University of Queensland, Queensland University of Technology, and QCIF Digital Research.\nThis project is a co-investment partnership with the Australian Research Data Commons (ARDC) through the HASS and Indigenous Research Data Commons. The ARDC is enabled by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS)."
+    "text": "Getting ready to release a dataset, pretty rapid, right?…..\nThinking about raisins (currantly)….\nThe cat thing still…"
   },
   {
-    "objectID": "blog/posts/2026-02-27_now.html",
-    "href": "blog/posts/2026-02-27_now.html",
-    "title": "27 Feb 2026: Currently working",
+    "objectID": "blog/posts/2026-03-24_now.html",
+    "href": "blog/posts/2026-03-24_now.html",
+    "title": "24 Mar 2026: Currently working",
     "section": "",
-    "text": "We are building our website…..\nGetting in touch with researchers….\nE-introducing all our cats…"
+    "text": "Full steam ahead on the tech work! Data processing, ONI dev work, etc…..\nSeveral good chats with our HASS research infrastructure (RI) friends at LDaCA, AIO, and SIH….\nPlanned our first “Work From QCIF Day”…"
   },
   {
-    "objectID": "blog/posts/2026-03-17_now.html",
-    "href": "blog/posts/2026-03-17_now.html",
-    "title": "17 Mar 2026: Currently working",
+    "objectID": "blog/posts/2026-04-10_now.html",
+    "href": "blog/posts/2026-04-10_now.html",
+    "title": "10 Apr 2026: Currently working",
     "section": "",
-    "text": "Released a dataset! …..\nJust finished our SECOND internal demo (LDaCA & QCIF)….\nFinishing the first work packages report…"
+    "text": "Hansard workshop at QUT next week with a LOT of Centres invited…..\nFinally got around to adding a background thank you Betsy….\nUsed up the allocation of brackets in last week’s post so now we’ll need to get by without for a while sorry if anything looks weird…"
   },
   {
-    "objectID": "blog/posts/2026-04-02_now.html",
-    "href": "blog/posts/2026-04-02_now.html",
-    "title": "2 Apr 2026: Currently working",
+    "objectID": "blog/posts/2026-04-22_now.html",
+    "href": "blog/posts/2026-04-22_now.html",
+    "title": "22 Apr 2026: Currently working",
     "section": "",
-    "text": "Work from QCIF was great (breakfast for lunch!) with a surprise Pawsey friend…..\nARDC/LDaCA engagement meeting: anything that lowers the perceived barrier to entry is good (from an Eve scribble, not a direct quote)….\nThe cats have synced their calendars for coordinated daily yelling (11am, in case you’re curious)…"
+    "text": "QUT-internal Hansard workshop! Attendees: 16, project team members: 6, hours of fun: 2 (there’s a priceless joke in there somewhere)…..\nCaught up with CDL Enhanced Analytics, who are working on OCR for colonial Hansards….\nFeels good to have brackets back…"
   },
   {
-    "objectID": "blog/posts/2026-04-17_now.html",
-    "href": "blog/posts/2026-04-17_now.html",
-    "title": "14 Apr 2026: Currently working",
+    "objectID": "blog/posts/2026-05-08_now.html",
+    "href": "blog/posts/2026-05-08_now.html",
+    "title": "8 May 2026: Currently working",
     "section": "",
-    "text": "QUT-internal Hansard workshop! Went great. Update later, rest now…..\nZzzz….\nZzz…"
+    "text": "Crating continues…..\nSomething about data verification. Which is to say.. making sure we know where our Federal Hansard gaps are….\nMaking the website better, a good task for when we have no brain left for data wrangling…"
   },
   {
-    "objectID": "blog/posts/2026-04-29_now.html",
-    "href": "blog/posts/2026-04-29_now.html",
-    "title": "29 Apr 2026: Currently working",
+    "objectID": "blog/posts/2026-05-19_now.html",
+    "href": "blog/posts/2026-05-19_now.html",
+    "title": "19 May 2026: Currently working",
     "section": "",
-    "text": "Met with our Expert Advisory Board, still processing all the great input…..\nAsked for numbers from the Productivity Commission work, but they’re too exciting, so they’ll get their own blog at some point….\nAsparagus…"
+    "text": "Work from UQ day last week, we had so much fun brainstorming (whiteboard!) and having lunch we forgot to take a photo (sorry LinkedIn)…..\nDraft data portal deployed at QCIF - still lots to do but it’s fun to see something! It’s real!….\nRAIN…"
   },
   {
-    "objectID": "blog/posts/2026-05-12_now.html",
-    "href": "blog/posts/2026-05-12_now.html",
-    "title": "12 May 2026: Currently working",
+    "objectID": "blog/posts/2026-06-02_now.html",
+    "href": "blog/posts/2026-06-02_now.html",
+    "title": "2 Jun 2026: Currently working",
     "section": "",
-    "text": "New scoping document dropped - scoping the searchable index of public inquiries…..\nWrestling with bureaucratic document management and provenance 💪….\nWe missed Marissa!…"
+    "text": "Eve has used up all her words and needs help writing the week notes…..\nThe cold weather has made all of our pets much more involved in our work….\nIt’s JUNE…"
   },
   {
-    "objectID": "blog/posts/2026-05-26_now.html",
-    "href": "blog/posts/2026-05-26_now.html",
-    "title": "26 May 2026: Currently working",
+    "objectID": "blog/posts/2026-06-19_now.html",
+    "href": "blog/posts/2026-06-19_now.html",
+    "title": "19 Jun 2026: Currently working",
     "section": "",
-    "text": "Meeting note: “how much weirdness do we want to standardise?”…..\nMeeting note: “playing whackamole with getting the plain text transcripts together”….\nMeeting note: “called time on prepping the text”…"
+    "text": "Loading…..\nPreparing for ResBaz….\nGetting ready to put data in our portal…"
   },
   {
-    "objectID": "blog/posts/2026-06-10_now.html",
-    "href": "blog/posts/2026-06-10_now.html",
-    "title": "10 Jun 2026: Currently working",
+    "objectID": "blog/posts/2026-07-22_now.html",
+    "href": "blog/posts/2026-07-22_now.html",
+    "title": "22 Jul 2026: Currently working",
     "section": "",
-    "text": "Preparing for ResBaz (23-25 June QUT KG, come visit)…..\nWP7.1 & WP8.1 has been sent to various places for review….\nAgonising over metadata. More agonising to come…"
-  },
-  {
-    "objectID": "blog/posts/2026-06-25_now.html",
-    "href": "blog/posts/2026-06-25_now.html",
-    "title": "25 Jun 2026: Currently working",
-    "section": "",
-    "text": "Quotes from ResBaz QLD\n“Do 414 of these text files contain the first line of Waltzing Matilda?” - Betsy\n“This corpus might contain a book about camel care. It probably doesn’t though.” - Sam\n“I wish I’d chosen a smaller example dataset.” - Sam\n“I think we might need more chairs…” - Eve\n“We need more chairs!” - Eve\n“I wrote down ‘introduce self’ so this is going well already.” - Sam\n“We have created an award called the ‘Hames Award’ for the most workshops at ResBaz. Here is your prize t-shirt!” - Maca"
+    "text": "After a very busy few weeks including leave periods, we return to our week notes in a hopefully weekly fashion. Hopefully you didn’t miss us too much. (If you skim past this part it looks like we did a lot of work very rapidly)\n… The data portal is ready for data!\n… We put data in the data portal!\n… Immediately we notice Things about the data portal!"
   },
   {
     "objectID": "blog/posts/qut-hansard-workshop-14-April/index.html",
