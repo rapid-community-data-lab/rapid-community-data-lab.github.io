@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - documents-feature-brown-transparent.png
+    - CNAME
+    - ".nojekyll"
 
 website:
   title: "RAPID-CDL"

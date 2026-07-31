@@ -6,7 +6,7 @@ categories: [news, newsletter update]
 image: false
 ---
 
-**From the team**
+## From the team
 
 Dear all, 
 
@@ -26,7 +26,7 @@ With our thanks,
 
 The RAPID-CDL Project Team
 
-**The JRG dataset**
+## The JRG dataset
 
 Back in March, the Job-Ready Graduates bill reversal called for submissions. We decided we may as well start as we meant to continue, and with some rapid processing put together a dataset of all mentions of the bill in Federal Hansard proceedings and [published it on Zenodo](https://zenodo.org/records/18946597) for the public to use in preparing their submissions. 
 
@@ -34,7 +34,7 @@ Back in March, the Job-Ready Graduates bill reversal called for submissions. We 
 
 
 
-**An overview in numbers**
+## An overview in numbers
 
 For entertainment and other value, please find below some numbers about the project thus far. Given our firm stance on centering qualitative research methods, we thought counting things would be a fun juxtaposition. 
 
@@ -47,7 +47,7 @@ The Hansard side has downloaded 8,369 House of Representatives sessions and 7,15
 The longest session (by number of paragraphs) we've parsed so far is 10 May 2005 in the House of Representatives, with 36,447 paragraphs, probably due to its inclusion of a number of tables, including one of Gifts to visiting Heads of State, Heads of Government and Ministers and a table of act of grace and waiver of debt claims for government agencies. 
 
 
-**We're here for community**
+## We're here for community
 
 🗨️[Submit an EOI](https://tinyurl.com/rapideoi)
 

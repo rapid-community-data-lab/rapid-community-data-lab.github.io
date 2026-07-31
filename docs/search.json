@@ -28,53 +28,32 @@
     "text": "Get in touch\nSuggest a Public Interest dataset\nSign up for our newsletter\nFollow our blog"
   },
   {
-    "objectID": "blog/posts/Newsletter-2026-Q1-Q2/index.html",
-    "href": "blog/posts/Newsletter-2026-Q1-Q2/index.html",
-    "title": "Newsletter 2026 Q1 & Q2",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "RAPID-CDL Blog",
     "section": "",
-    "text": "From the team\nDear all,\nIn this newsletter, we reflect on the first six months of RAPID-CDL.\nIn the first few months, each of the partner organisations were very pleased to be able to start putting together teams for RAPID within each institution, with data scientists from QUT, developers from QCIF, and the LDaCA group at UQ coming together to get this fledgling project up and running. The ARDC has also been endlessly supportive.\nThe QUT Centre for Justice has been an incredible source of support and inspiration, helping us meet a wide range of researchers early. We also regularly reflect on the ‘public interest’ angle of this project, as the C4J connection helps make clear the many avenues of public interest and public good the project enables.\nEngagement activity was always intended to start early and in many ways has been the most exciting part of the project. We’re so impressed by the generosity of our expert advisors, firstly with how easy the kick-off meeting was to schedule, and secondly by how willing they were to deeply and candidly discuss their experiences working with Hansard and other public interest documents. We’re looking forward to the next phases in working with them, which will involve early access to the data portal to help us test and refine.\nIn June, the QCIF team deployed the first version of the data portal. The QUT and UQ teams have been hard at work on Hansard and inquiries, wrangling xml into RO-crate with test datasets so we can begin work in earnest preparing the data portal. We’re not going to publicly commit to any timeframes, but we will quietly encourage you to watch this space, and start thinking seriously about what sort of work you might want to do with these sorts of data…\nThe most overwhelming part of all of this has been the positive reception from all of you. We look forward to repaying that trust and welcome in the best way we can conceive: accessible and usable data.\nWith our thanks,\nThe RAPID-CDL Project Team\nThe JRG dataset\nBack in March, the Job-Ready Graduates bill reversal called for submissions. We decided we may as well start as we meant to continue, and with some rapid processing put together a dataset of all mentions of the bill in Federal Hansard proceedings and published it on Zenodo for the public to use in preparing their submissions.\nRead Naomi Barnes’ post on our blog.\nAn overview in numbers\nFor entertainment and other value, please find below some numbers about the project thus far. Given our firm stance on centering qualitative research methods, we thought counting things would be a fun juxtaposition.\nIn the first quarter of the project, the hands-on project team of 8 has been working for 6 months on 21 work packages concurrently. We’ve run 4 workshops with ~90 participants (highest attendance 49 in a qualitative workshop) across 25 domains and 5 institutions, and spent over 20 hours in individual conversations with interested parties (mostly researchers, but not all). Thirteen people have gone to the effort of submitting EOIs for the project, encompassing 11 fields of study and 8 institutions.\nIn the trial dataset for the inquiries work, we are working with 6,037 chunks, 369 documents with a total disk size of 248Mb (editor’s note: I think this very nicely showcases something we hear a lot about, which is that this sort of document data is ‘too big’ for researchers to process without digital assistance but ‘too small’ to justify applying university resources, this is why our project exists).\nThe Hansard side has downloaded 8,369 House of Representatives sessions and 7,150 Senate sessions from the Parliamentary Library, including 13,206 XML and 2,337 SGML files. The year with the fewest files is 1937 (56 files) and the most is 1902 (200 files). After parsing 13,206 of those session transcripts into tabular form, (i.e. the XML files) we currently have 13,016,725 paragraphs from approximately 1,913 different parliamentarians plus an as-yet-to-be-identified number of guest speakers.\nThe longest session (by number of paragraphs) we’ve parsed so far is 10 May 2005 in the House of Representatives, with 36,447 paragraphs, probably due to its inclusion of a number of tables, including one of Gifts to visiting Heads of State, Heads of Government and Ministers and a table of act of grace and waiver of debt claims for government agencies.\nWe’re here for community\n🗨️Submit an EOI\n👏Follow us on LinkedIn\n📧Join the mailing list"
+    "text": "news\n\nnewsletter update\n\n\n\n\n\n\nJul 31, 2026\n\n\nEve Ansell\n\n4 min\n\n\n\n\n\n\n\n\nnews\n\nworkshop\n\nhansard\n\n\n\n\n\n\nApr 15, 2026\n\n\nEve Ansell\n\n2 min\n\n\n\n\n\n\n\n\nnews\n\ndata\n\n\n\n\n\n\nMar 12, 2026\n\n\nNaomi Barnes\n\n2 min\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "blog/posts/2026-07-22_now.html",
-    "href": "blog/posts/2026-07-22_now.html",
-    "title": "22 Jul 2026: Currently working",
-    "section": "",
-    "text": "After a very busy few weeks including leave periods, we return to our week notes in a hopefully weekly fashion. Hopefully you didn’t miss us too much. (If you skim past this part it looks like we did a lot of work very rapidly)\n… The data portal is ready for data!\n… We put data in the data portal!\n… Immediately we notice Things about the data portal!"
+    "objectID": "blog/index.html#currently-working-updates",
+    "href": "blog/index.html#currently-working-updates",
+    "title": "RAPID-CDL Blog",
+    "section": "Currently working updates",
+    "text": "Currently working updates\n\n\n\n\n\n22 Jul 2026: Currently working\n\n\n\n\n\nJul 22, 2026\n\n\n\n\n\n\n\n25 Jun 2026: Currently working\n\n\n\n\n\nJun 25, 2026\n\n\n\n\n\n\n\n19 Jun 2026: Currently working\n\n\n\n\n\nJun 19, 2026\n\n\n\n\n\n\n\n10 Jun 2026: Currently working\n\n\n\n\n\nJun 10, 2026\n\n\n\n\n\n\n\n2 Jun 2026: Currently working\n\n\n\n\n\nJun 2, 2026\n\n\n\n\n\n\n\n26 May 2026: Currently working\n\n\n\n\n\nMay 26, 2026\n\n\n\n\n\n\n\n19 May 2026: Currently working\n\n\n\n\n\nMay 19, 2026\n\n\n\n\n\n\n\n12 May 2026: Currently working\n\n\n\n\n\nMay 12, 2026\n\n\n\n\n\n\n\n8 May 2026: Currently working\n\n\n\n\n\nMay 8, 2026\n\n\n\n\n\n\n\n29 Apr 2026: Currently working\n\n\n\n\n\nApr 29, 2026\n\n\n\n\n\n\n\n22 Apr 2026: Currently working\n\n\n\n\n\nApr 22, 2026\n\n\n\n\n\n\n\n14 Apr 2026: Currently working\n\n\n\n\n\nApr 14, 2026\n\n\n\n\n\n\n\n10 Apr 2026: Currently working\n\n\n\n\n\nApr 10, 2026\n\n\n\n\n\n\n\n2 Apr 2026: Currently working\n\n\n\n\n\nApr 2, 2026\n\n\n\n\n\n\n\n24 Mar 2026: Currently working\n\n\n\n\n\nMar 24, 2026\n\n\n\n\n\n\n\n17 Mar 2026: Currently working\n\n\n\n\n\nMar 17, 2026\n\n\n\n\n\n\n\n11 Mar 2026: Currently working\n\n\n\n\n\nMar 11, 2026\n\n\n\n\n\n\n\n27 Feb 2026: Currently working\n\n\n\n\n\nFeb 27, 2026\n\n\n\n\n\nNo matching items\n\n  \n\n\n\nRAPID Blog RSS feed"
   },
   {
-    "objectID": "blog/posts/2026-06-19_now.html",
-    "href": "blog/posts/2026-06-19_now.html",
-    "title": "19 Jun 2026: Currently working",
+    "objectID": "blog/posts/2026-03-11_now.html",
+    "href": "blog/posts/2026-03-11_now.html",
+    "title": "11 Mar 2026: Currently working",
     "section": "",
-    "text": "Loading…..\nPreparing for ResBaz….\nGetting ready to put data in our portal…"
+    "text": "Getting ready to release a dataset, pretty rapid, right?…..\nThinking about raisins (currantly)….\nThe cat thing still…"
   },
   {
-    "objectID": "blog/posts/2026-06-02_now.html",
-    "href": "blog/posts/2026-06-02_now.html",
-    "title": "2 Jun 2026: Currently working",
+    "objectID": "blog/posts/2026-04-17_now.html",
+    "href": "blog/posts/2026-04-17_now.html",
+    "title": "14 Apr 2026: Currently working",
     "section": "",
-    "text": "Eve has used up all her words and needs help writing the week notes…..\nThe cold weather has made all of our pets much more involved in our work….\nIt’s JUNE…"
-  },
-  {
-    "objectID": "blog/posts/2026-05-19_now.html",
-    "href": "blog/posts/2026-05-19_now.html",
-    "title": "19 May 2026: Currently working",
-    "section": "",
-    "text": "Work from UQ day last week, we had so much fun brainstorming (whiteboard!) and having lunch we forgot to take a photo (sorry LinkedIn)…..\nDraft data portal deployed at QCIF - still lots to do but it’s fun to see something! It’s real!….\nRAIN…"
-  },
-  {
-    "objectID": "blog/posts/2026-05-08_now.html",
-    "href": "blog/posts/2026-05-08_now.html",
-    "title": "8 May 2026: Currently working",
-    "section": "",
-    "text": "Crating continues…..\nSomething about data verification. Which is to say.. making sure we know where our Federal Hansard gaps are….\nMaking the website better, a good task for when we have no brain left for data wrangling…"
-  },
-  {
-    "objectID": "blog/posts/2026-04-22_now.html",
-    "href": "blog/posts/2026-04-22_now.html",
-    "title": "22 Apr 2026: Currently working",
-    "section": "",
-    "text": "QUT-internal Hansard workshop! Attendees: 16, project team members: 6, hours of fun: 2 (there’s a priceless joke in there somewhere)…..\nCaught up with CDL Enhanced Analytics, who are working on OCR for colonial Hansards….\nFeels good to have brackets back…"
+    "text": "QUT-internal Hansard workshop! Went great. Update later, rest now…..\nZzzz….\nZzz…"
   },
   {
     "objectID": "blog/posts/2026-04-10_now.html",
@@ -91,81 +70,11 @@
     "text": "Full steam ahead on the tech work! Data processing, ONI dev work, etc…..\nSeveral good chats with our HASS research infrastructure (RI) friends at LDaCA, AIO, and SIH….\nPlanned our first “Work From QCIF Day”…"
   },
   {
-    "objectID": "blog/posts/2026-03-11_now.html",
-    "href": "blog/posts/2026-03-11_now.html",
-    "title": "11 Mar 2026: Currently working",
+    "objectID": "blog/posts/2026-07-22_now.html",
+    "href": "blog/posts/2026-07-22_now.html",
+    "title": "22 Jul 2026: Currently working",
     "section": "",
-    "text": "Getting ready to release a dataset, pretty rapid, right?…..\nThinking about raisins (currantly)….\nThe cat thing still…"
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "RAPID-CDL Blog",
-    "section": "",
-    "text": "news\n\nnewsletter update\n\n\n\n\n\n\nJul 31, 2026\n\n\nEve Ansell\n\n4 min\n\n\n\n\n\n\n\n\nnews\n\nworkshop\n\nhansard\n\n\n\n\n\n\nApr 15, 2026\n\n\nEve Ansell\n\n2 min\n\n\n\n\n\n\n\n\nnews\n\ndata\n\n\n\n\n\n\nMar 12, 2026\n\n\nNaomi Barnes\n\n2 min\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/index.html#currently-working-updates",
-    "href": "blog/index.html#currently-working-updates",
-    "title": "RAPID-CDL Blog",
-    "section": "Currently working updates",
-    "text": "Currently working updates\n\n\n\n\n\n22 Jul 2026: Currently working\n\n\n\n\n\nJul 22, 2026\n\n\n\n\n\n\n\n25 Jun 2026: Currently working\n\n\n\n\n\nJun 25, 2026\n\n\n\n\n\n\n\n19 Jun 2026: Currently working\n\n\n\n\n\nJun 19, 2026\n\n\n\n\n\n\n\n10 Jun 2026: Currently working\n\n\n\n\n\nJun 10, 2026\n\n\n\n\n\n\n\n2 Jun 2026: Currently working\n\n\n\n\n\nJun 2, 2026\n\n\n\n\n\n\n\n26 May 2026: Currently working\n\n\n\n\n\nMay 26, 2026\n\n\n\n\n\n\n\n19 May 2026: Currently working\n\n\n\n\n\nMay 19, 2026\n\n\n\n\n\n\n\n12 May 2026: Currently working\n\n\n\n\n\nMay 12, 2026\n\n\n\n\n\n\n\n8 May 2026: Currently working\n\n\n\n\n\nMay 8, 2026\n\n\n\n\n\n\n\n29 Apr 2026: Currently working\n\n\n\n\n\nApr 29, 2026\n\n\n\n\n\n\n\n22 Apr 2026: Currently working\n\n\n\n\n\nApr 22, 2026\n\n\n\n\n\n\n\n14 Apr 2026: Currently working\n\n\n\n\n\nApr 14, 2026\n\n\n\n\n\n\n\n10 Apr 2026: Currently working\n\n\n\n\n\nApr 10, 2026\n\n\n\n\n\n\n\n2 Apr 2026: Currently working\n\n\n\n\n\nApr 2, 2026\n\n\n\n\n\n\n\n24 Mar 2026: Currently working\n\n\n\n\n\nMar 24, 2026\n\n\n\n\n\n\n\n17 Mar 2026: Currently working\n\n\n\n\n\nMar 17, 2026\n\n\n\n\n\n\n\n11 Mar 2026: Currently working\n\n\n\n\n\nMar 11, 2026\n\n\n\n\n\n\n\n27 Feb 2026: Currently working\n\n\n\n\n\nFeb 27, 2026\n\n\n\n\n\nNo matching items\n\n  \n\n\n\nRAPID Blog RSS feed"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Public interest documents such as parliamentary proceedings, inquiry submissions, hearing transcripts, and ministerial records remain difficult for researchers to use because they are typically released as isolated, human‑readable files with inconsistent formats, gaps, and limited metadata, creating a “last‑mile” barrier that demands significant technical expertise and often prevents ambitious research. The RAPID-CDL project addresses this by making these documents more accessible, establishing a FAIR‑aligned metadata standard, and creating documented workflows for both computational and qualitative research.\nBuilt on the Language Data Commons of Australia architecture, the project will apply RO‑Crate tools and the Oni portal to public interest collections, expanding their usability and informing future enhancements. The work will benefit a broad range of humanities, social sciences, Indigenous studies, and civil society users.\nExpected outcomes include improved access to Federal Hansard and inquiry documents, a roadmap for extending coverage to all jurisdictions, searchable directories and indexes of inquiries and submissions, new research workflows, and sustainable practices for expanding public access to these vital records.\n\nPartners\nProject partners include the University of Queensland, Queensland University of Technology, and QCIF Digital Research.\nThis project is a co-investment partnership with the Australian Research Data Commons (ARDC) through the HASS and Indigenous Research Data Commons. The ARDC is enabled by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS)."
-  },
-  {
-    "objectID": "blog/posts/2026-02-27_now.html",
-    "href": "blog/posts/2026-02-27_now.html",
-    "title": "27 Feb 2026: Currently working",
-    "section": "",
-    "text": "We are building our website…..\nGetting in touch with researchers….\nE-introducing all our cats…"
-  },
-  {
-    "objectID": "blog/posts/2026-03-17_now.html",
-    "href": "blog/posts/2026-03-17_now.html",
-    "title": "17 Mar 2026: Currently working",
-    "section": "",
-    "text": "Released a dataset! …..\nJust finished our SECOND internal demo (LDaCA & QCIF)….\nFinishing the first work packages report…"
-  },
-  {
-    "objectID": "blog/posts/2026-04-02_now.html",
-    "href": "blog/posts/2026-04-02_now.html",
-    "title": "2 Apr 2026: Currently working",
-    "section": "",
-    "text": "Work from QCIF was great (breakfast for lunch!) with a surprise Pawsey friend…..\nARDC/LDaCA engagement meeting: anything that lowers the perceived barrier to entry is good (from an Eve scribble, not a direct quote)….\nThe cats have synced their calendars for coordinated daily yelling (11am, in case you’re curious)…"
-  },
-  {
-    "objectID": "blog/posts/2026-04-17_now.html",
-    "href": "blog/posts/2026-04-17_now.html",
-    "title": "14 Apr 2026: Currently working",
-    "section": "",
-    "text": "QUT-internal Hansard workshop! Went great. Update later, rest now…..\nZzzz….\nZzz…"
-  },
-  {
-    "objectID": "blog/posts/2026-04-29_now.html",
-    "href": "blog/posts/2026-04-29_now.html",
-    "title": "29 Apr 2026: Currently working",
-    "section": "",
-    "text": "Met with our Expert Advisory Board, still processing all the great input…..\nAsked for numbers from the Productivity Commission work, but they’re too exciting, so they’ll get their own blog at some point….\nAsparagus…"
-  },
-  {
-    "objectID": "blog/posts/2026-05-12_now.html",
-    "href": "blog/posts/2026-05-12_now.html",
-    "title": "12 May 2026: Currently working",
-    "section": "",
-    "text": "New scoping document dropped - scoping the searchable index of public inquiries…..\nWrestling with bureaucratic document management and provenance 💪….\nWe missed Marissa!…"
-  },
-  {
-    "objectID": "blog/posts/2026-05-26_now.html",
-    "href": "blog/posts/2026-05-26_now.html",
-    "title": "26 May 2026: Currently working",
-    "section": "",
-    "text": "Meeting note: “how much weirdness do we want to standardise?”…..\nMeeting note: “playing whackamole with getting the plain text transcripts together”….\nMeeting note: “called time on prepping the text”…"
+    "text": "After a very busy few weeks including leave periods, we return to our week notes in a hopefully weekly fashion. Hopefully you didn’t miss us too much. (If you skim past this part it looks like we did a lot of work very rapidly)\n… The data portal is ready for data!\n… We put data in the data portal!\n… Immediately we notice Things about the data portal!"
   },
   {
     "objectID": "blog/posts/2026-06-10_now.html",
@@ -182,6 +91,27 @@
     "text": "Quotes from ResBaz QLD\n“Do 414 of these text files contain the first line of Waltzing Matilda?” - Betsy\n“This corpus might contain a book about camel care. It probably doesn’t though.” - Sam\n“I wish I’d chosen a smaller example dataset.” - Sam\n“I think we might need more chairs…” - Eve\n“We need more chairs!” - Eve\n“I wrote down ‘introduce self’ so this is going well already.” - Sam\n“We have created an award called the ‘Hames Award’ for the most workshops at ResBaz. Here is your prize t-shirt!” - Maca"
   },
   {
+    "objectID": "blog/posts/2026-05-19_now.html",
+    "href": "blog/posts/2026-05-19_now.html",
+    "title": "19 May 2026: Currently working",
+    "section": "",
+    "text": "Work from UQ day last week, we had so much fun brainstorming (whiteboard!) and having lunch we forgot to take a photo (sorry LinkedIn)…..\nDraft data portal deployed at QCIF - still lots to do but it’s fun to see something! It’s real!….\nRAIN…"
+  },
+  {
+    "objectID": "blog/posts/2026-04-22_now.html",
+    "href": "blog/posts/2026-04-22_now.html",
+    "title": "22 Apr 2026: Currently working",
+    "section": "",
+    "text": "QUT-internal Hansard workshop! Attendees: 16, project team members: 6, hours of fun: 2 (there’s a priceless joke in there somewhere)…..\nCaught up with CDL Enhanced Analytics, who are working on OCR for colonial Hansards….\nFeels good to have brackets back…"
+  },
+  {
+    "objectID": "blog/posts/2026-02-27_now.html",
+    "href": "blog/posts/2026-02-27_now.html",
+    "title": "27 Feb 2026: Currently working",
+    "section": "",
+    "text": "We are building our website…..\nGetting in touch with researchers….\nE-introducing all our cats…"
+  },
+  {
     "objectID": "blog/posts/job-ready-graduates-announce/index.html",
     "href": "blog/posts/job-ready-graduates-announce/index.html",
     "title": "Federal Parliament Speeches about the Job-Ready Graduates Bill",
@@ -194,5 +124,103 @@
     "title": "QUT Hansard Workshop 14 April 2026",
     "section": "",
     "text": "“The transcript is like a play and the video is like the interpretation of the play” - Naomi Barnes on Hansard’s “substantially verbatim” transcripts of parliamentary proceedings.\nOn Tuesday RAPID-CDL was hosted by QUT Centre for Justice with an invited audience including Centre for Justice, DMRC, Centre for Decent Work and Industry, Centre for Data Science, School of Education, Digital Child Centre of Excellence.\nWe presented a workshop on “Digital Humanities: a conversation between data science and qualitative research”, showcasing past, present, and future research workflows enabled by the RAPID-CDL project.\nIn the second part of the workshop we had conversations with the researchers in the room about pragmatic considerations in working with parliamentary proceedings, and the opportunities afforded by RAPID-CDL. We truly appreciate everyone’s participation. We’ll be incorporating everything we learned directly into ongoing work in the project.\nHalf of the registered researchers had worked with parliamentary proceedings in a manual or qualitative way, and of those who had never worked with this data, more than half had not considered this as a data source.\nRAPID-CDL takes care of some computing in order to enable researchers to get the most out of Hansard transcripts and other Public Interest documents. Contact us if you are interested!"
+  },
+  {
+    "objectID": "blog/posts/2026-03-17_now.html",
+    "href": "blog/posts/2026-03-17_now.html",
+    "title": "17 Mar 2026: Currently working",
+    "section": "",
+    "text": "Released a dataset! …..\nJust finished our SECOND internal demo (LDaCA & QCIF)….\nFinishing the first work packages report…"
+  },
+  {
+    "objectID": "blog/posts/2026-06-19_now.html",
+    "href": "blog/posts/2026-06-19_now.html",
+    "title": "19 Jun 2026: Currently working",
+    "section": "",
+    "text": "Loading…..\nPreparing for ResBaz….\nGetting ready to put data in our portal…"
+  },
+  {
+    "objectID": "blog/posts/2026-06-02_now.html",
+    "href": "blog/posts/2026-06-02_now.html",
+    "title": "2 Jun 2026: Currently working",
+    "section": "",
+    "text": "Eve has used up all her words and needs help writing the week notes…..\nThe cold weather has made all of our pets much more involved in our work….\nIt’s JUNE…"
+  },
+  {
+    "objectID": "blog/posts/2026-05-12_now.html",
+    "href": "blog/posts/2026-05-12_now.html",
+    "title": "12 May 2026: Currently working",
+    "section": "",
+    "text": "New scoping document dropped - scoping the searchable index of public inquiries…..\nWrestling with bureaucratic document management and provenance 💪….\nWe missed Marissa!…"
+  },
+  {
+    "objectID": "blog/posts/2026-05-26_now.html",
+    "href": "blog/posts/2026-05-26_now.html",
+    "title": "26 May 2026: Currently working",
+    "section": "",
+    "text": "Meeting note: “how much weirdness do we want to standardise?”…..\nMeeting note: “playing whackamole with getting the plain text transcripts together”….\nMeeting note: “called time on prepping the text”…"
+  },
+  {
+    "objectID": "blog/posts/Newsletter-2026-Q1-Q2/index.html",
+    "href": "blog/posts/Newsletter-2026-Q1-Q2/index.html",
+    "title": "Newsletter 2026 Q1 & Q2",
+    "section": "",
+    "text": "Dear all,\nIn this newsletter, we reflect on the first six months of RAPID-CDL.\nIn the first few months, each of the partner organisations were very pleased to be able to start putting together teams for RAPID within each institution, with data scientists from QUT, developers from QCIF, and the LDaCA group at UQ coming together to get this fledgling project up and running. The ARDC has also been endlessly supportive.\nThe QUT Centre for Justice has been an incredible source of support and inspiration, helping us meet a wide range of researchers early. We also regularly reflect on the ‘public interest’ angle of this project, as the C4J connection helps make clear the many avenues of public interest and public good the project enables.\nEngagement activity was always intended to start early and in many ways has been the most exciting part of the project. We’re so impressed by the generosity of our expert advisors, firstly with how easy the kick-off meeting was to schedule, and secondly by how willing they were to deeply and candidly discuss their experiences working with Hansard and other public interest documents. We’re looking forward to the next phases in working with them, which will involve early access to the data portal to help us test and refine.\nIn June, the QCIF team deployed the first version of the data portal. The QUT and UQ teams have been hard at work on Hansard and inquiries, wrangling xml into RO-crate with test datasets so we can begin work in earnest preparing the data portal. We’re not going to publicly commit to any timeframes, but we will quietly encourage you to watch this space, and start thinking seriously about what sort of work you might want to do with these sorts of data…\nThe most overwhelming part of all of this has been the positive reception from all of you. We look forward to repaying that trust and welcome in the best way we can conceive: accessible and usable data.\nWith our thanks,\nThe RAPID-CDL Project Team"
+  },
+  {
+    "objectID": "blog/posts/Newsletter-2026-Q1-Q2/index.html#from-the-team",
+    "href": "blog/posts/Newsletter-2026-Q1-Q2/index.html#from-the-team",
+    "title": "Newsletter 2026 Q1 & Q2",
+    "section": "",
+    "text": "Dear all,\nIn this newsletter, we reflect on the first six months of RAPID-CDL.\nIn the first few months, each of the partner organisations were very pleased to be able to start putting together teams for RAPID within each institution, with data scientists from QUT, developers from QCIF, and the LDaCA group at UQ coming together to get this fledgling project up and running. The ARDC has also been endlessly supportive.\nThe QUT Centre for Justice has been an incredible source of support and inspiration, helping us meet a wide range of researchers early. We also regularly reflect on the ‘public interest’ angle of this project, as the C4J connection helps make clear the many avenues of public interest and public good the project enables.\nEngagement activity was always intended to start early and in many ways has been the most exciting part of the project. We’re so impressed by the generosity of our expert advisors, firstly with how easy the kick-off meeting was to schedule, and secondly by how willing they were to deeply and candidly discuss their experiences working with Hansard and other public interest documents. We’re looking forward to the next phases in working with them, which will involve early access to the data portal to help us test and refine.\nIn June, the QCIF team deployed the first version of the data portal. The QUT and UQ teams have been hard at work on Hansard and inquiries, wrangling xml into RO-crate with test datasets so we can begin work in earnest preparing the data portal. We’re not going to publicly commit to any timeframes, but we will quietly encourage you to watch this space, and start thinking seriously about what sort of work you might want to do with these sorts of data…\nThe most overwhelming part of all of this has been the positive reception from all of you. We look forward to repaying that trust and welcome in the best way we can conceive: accessible and usable data.\nWith our thanks,\nThe RAPID-CDL Project Team"
+  },
+  {
+    "objectID": "blog/posts/Newsletter-2026-Q1-Q2/index.html#the-jrg-dataset",
+    "href": "blog/posts/Newsletter-2026-Q1-Q2/index.html#the-jrg-dataset",
+    "title": "Newsletter 2026 Q1 & Q2",
+    "section": "The JRG dataset",
+    "text": "The JRG dataset\nBack in March, the Job-Ready Graduates bill reversal called for submissions. We decided we may as well start as we meant to continue, and with some rapid processing put together a dataset of all mentions of the bill in Federal Hansard proceedings and published it on Zenodo for the public to use in preparing their submissions.\nRead Naomi Barnes’ post on our blog."
+  },
+  {
+    "objectID": "blog/posts/Newsletter-2026-Q1-Q2/index.html#an-overview-in-numbers",
+    "href": "blog/posts/Newsletter-2026-Q1-Q2/index.html#an-overview-in-numbers",
+    "title": "Newsletter 2026 Q1 & Q2",
+    "section": "An overview in numbers",
+    "text": "An overview in numbers\nFor entertainment and other value, please find below some numbers about the project thus far. Given our firm stance on centering qualitative research methods, we thought counting things would be a fun juxtaposition.\nIn the first quarter of the project, the hands-on project team of 8 has been working for 6 months on 21 work packages concurrently. We’ve run 4 workshops with ~90 participants (highest attendance 49 in a qualitative workshop) across 25 domains and 5 institutions, and spent over 20 hours in individual conversations with interested parties (mostly researchers, but not all). Thirteen people have gone to the effort of submitting EOIs for the project, encompassing 11 fields of study and 8 institutions.\nIn the trial dataset for the inquiries work, we are working with 6,037 chunks, 369 documents with a total disk size of 248Mb (editor’s note: I think this very nicely showcases something we hear a lot about, which is that this sort of document data is ‘too big’ for researchers to process without digital assistance but ‘too small’ to justify applying university resources, this is why our project exists).\nThe Hansard side has downloaded 8,369 House of Representatives sessions and 7,150 Senate sessions from the Parliamentary Library, including 13,206 XML and 2,337 SGML files. The year with the fewest files is 1937 (56 files) and the most is 1902 (200 files). After parsing 13,206 of those session transcripts into tabular form, (i.e. the XML files) we currently have 13,016,725 paragraphs from approximately 1,913 different parliamentarians plus an as-yet-to-be-identified number of guest speakers.\nThe longest session (by number of paragraphs) we’ve parsed so far is 10 May 2005 in the House of Representatives, with 36,447 paragraphs, probably due to its inclusion of a number of tables, including one of Gifts to visiting Heads of State, Heads of Government and Ministers and a table of act of grace and waiver of debt claims for government agencies."
+  },
+  {
+    "objectID": "blog/posts/Newsletter-2026-Q1-Q2/index.html#were-here-for-community",
+    "href": "blog/posts/Newsletter-2026-Q1-Q2/index.html#were-here-for-community",
+    "title": "Newsletter 2026 Q1 & Q2",
+    "section": "We’re here for community",
+    "text": "We’re here for community\n🗨️Submit an EOI\n👏Follow us on LinkedIn\n📧Join the mailing list"
+  },
+  {
+    "objectID": "blog/posts/2026-04-29_now.html",
+    "href": "blog/posts/2026-04-29_now.html",
+    "title": "29 Apr 2026: Currently working",
+    "section": "",
+    "text": "Met with our Expert Advisory Board, still processing all the great input…..\nAsked for numbers from the Productivity Commission work, but they’re too exciting, so they’ll get their own blog at some point….\nAsparagus…"
+  },
+  {
+    "objectID": "blog/posts/2026-05-08_now.html",
+    "href": "blog/posts/2026-05-08_now.html",
+    "title": "8 May 2026: Currently working",
+    "section": "",
+    "text": "Crating continues…..\nSomething about data verification. Which is to say.. making sure we know where our Federal Hansard gaps are….\nMaking the website better, a good task for when we have no brain left for data wrangling…"
+  },
+  {
+    "objectID": "blog/posts/2026-04-02_now.html",
+    "href": "blog/posts/2026-04-02_now.html",
+    "title": "2 Apr 2026: Currently working",
+    "section": "",
+    "text": "Work from QCIF was great (breakfast for lunch!) with a surprise Pawsey friend…..\nARDC/LDaCA engagement meeting: anything that lowers the perceived barrier to entry is good (from an Eve scribble, not a direct quote)….\nThe cats have synced their calendars for coordinated daily yelling (11am, in case you’re curious)…"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Public interest documents such as parliamentary proceedings, inquiry submissions, hearing transcripts, and ministerial records remain difficult for researchers to use because they are typically released as isolated, human‑readable files with inconsistent formats, gaps, and limited metadata, creating a “last‑mile” barrier that demands significant technical expertise and often prevents ambitious research. The RAPID-CDL project addresses this by making these documents more accessible, establishing a FAIR‑aligned metadata standard, and creating documented workflows for both computational and qualitative research.\nBuilt on the Language Data Commons of Australia architecture, the project will apply RO‑Crate tools and the Oni portal to public interest collections, expanding their usability and informing future enhancements. The work will benefit a broad range of humanities, social sciences, Indigenous studies, and civil society users.\nExpected outcomes include improved access to Federal Hansard and inquiry documents, a roadmap for extending coverage to all jurisdictions, searchable directories and indexes of inquiries and submissions, new research workflows, and sustainable practices for expanding public access to these vital records.\n\nPartners\nProject partners include the University of Queensland, Queensland University of Technology, and QCIF Digital Research.\nThis project is a co-investment partnership with the Australian Research Data Commons (ARDC) through the HASS and Indigenous Research Data Commons. The ARDC is enabled by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS)."
   }
 ]
