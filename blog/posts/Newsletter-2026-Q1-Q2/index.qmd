@@ -1,0 +1,56 @@
+---
+title: "Newsletter 2026 Q1 & Q2"
+author: "Eve Ansell"
+date: "2026-07-31"
+categories: [news, newsletter update]
+image: false
+---
+
+**From the team**
+
+Dear all, 
+
+In this newsletter, we reflect on the first six months of RAPID-CDL. 
+
+In the first few months, each of the partner organisations were very pleased to be able to start putting together teams for RAPID within each institution, with data scientists from QUT, developers from QCIF, and the LDaCA group at UQ coming together to get this fledgling project up and running. The ARDC has also been endlessly supportive.
+
+The QUT Centre for Justice has been an incredible source of support and inspiration, helping us meet a wide range of researchers early. We also regularly reflect on the ‘public interest’ angle of this project, as the C4J connection helps make clear the many avenues of public interest and public good the project enables.
+ 
+Engagement activity was always intended to start early and in many ways has been the most exciting part of the project. We’re so impressed by the generosity of our expert advisors, firstly with how easy the kick-off meeting was to schedule, and secondly by how willing they were to deeply and candidly discuss their experiences working with Hansard and other public interest documents. We’re looking forward to the next phases in working with them, which will involve early access to the data portal to help us test and refine. 
+
+In June, the QCIF team deployed the first version of the data portal. The QUT and UQ teams have been hard at work on Hansard and inquiries, wrangling xml into RO-crate with test datasets so we can begin work in earnest preparing the data portal. We’re not going to publicly commit to any timeframes, but we will quietly encourage you to **watch this space, and start thinking seriously about what sort of work you might want to do with these sorts of data…** 
+
+The most overwhelming part of all of this has been the positive reception from all of you. We look forward to repaying that trust and welcome in the best way we can conceive: accessible and usable data.
+
+With our thanks, 
+
+The RAPID-CDL Project Team
+
+**The JRG dataset**
+
+Back in March, the Job-Ready Graduates bill reversal called for submissions. We decided we may as well start as we meant to continue, and with some rapid processing put together a dataset of all mentions of the bill in Federal Hansard proceedings and [published it on Zenodo](https://zenodo.org/records/18946597) for the public to use in preparing their submissions. 
+
+[Read Naomi Barnes' post on our blog.](https://rapid-cdl.edu.au/blog/posts/job-ready-graduates-announce/)
+
+
+
+**An overview in numbers**
+
+For entertainment and other value, please find below some numbers about the project thus far. Given our firm stance on centering qualitative research methods, we thought counting things would be a fun juxtaposition. 
+
+In the first quarter of the project, the hands-on project team of 8 has been working for 6 months on 21 work packages concurrently. We've run 4 workshops with ~90 participants (highest attendance 49 in a qualitative workshop) across 25 domains and 5 institutions, and spent over 20 hours in individual conversations with interested parties (mostly researchers, but not all). Thirteen people have gone to the effort of submitting EOIs for the project, encompassing 11 fields of study and 8 institutions. 
+
+In the trial dataset for the inquiries work, we are working with 6,037 chunks, 369 documents with a total disk size of 248Mb (editor’s note: I think this very nicely showcases something we hear a lot about, which is that this sort of document data is ‘too big’ for researchers to process without digital assistance but ‘too small’ to justify applying university resources, this is why our project exists). 
+
+The Hansard side has downloaded 8,369 House of Representatives sessions and 7,150 Senate sessions from the Parliamentary Library, including 13,206 XML and 2,337 SGML files. The year with the fewest files is 1937 (56 files) and the most is 1902 (200 files). After parsing 13,206 of those session transcripts into tabular form, (i.e. the XML files) we currently have 13,016,725 paragraphs from approximately 1,913 different parliamentarians plus an as-yet-to-be-identified number of guest speakers.
+
+The longest session (by number of paragraphs) we've parsed so far is 10 May 2005 in the House of Representatives, with 36,447 paragraphs, probably due to its inclusion of a number of tables, including one of Gifts to visiting Heads of State, Heads of Government and Ministers and a table of act of grace and waiver of debt claims for government agencies. 
+
+
+**We're here for community**
+
+🗨️[Submit an EOI](https://tinyurl.com/rapideoi)
+
+👏[Follow us on LinkedIn](https://www.linkedin.com/company/112439307)
+
+📧[Join the mailing list](https://tinyurl.com/rapideoi)
