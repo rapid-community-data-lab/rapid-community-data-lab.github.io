@@ -17,6 +17,6 @@ Welcome to the Reusable and Accessible Public Interest Documents project, part o
 
 [Suggest a Public Interest dataset](https://forms.gle/q3DJRvSwM2rKr6a67)
 
-[Sign up for our newsletter](https://forms.gle/q3DJRvSwM2rKr6a67)
+[Sign up for our newsletter](https://app.vision6.com.au/em/forms/subscribe.php?db=908743&s=1028853&a=99641&k=1,2cDvXPdg35ApCpHCbsf8QiDRd2tDdwfrJ4lz7YylwgY)
 
 [Follow our blog](blog/index.qmd)
