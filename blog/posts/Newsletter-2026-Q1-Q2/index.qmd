@@ -26,6 +26,8 @@ With our thanks,
 
 The RAPID-CDL Project Team
 
+![](team Jul26.jpg){fig-alt="A 'Meet the team' graphic showing all of the RAPID-CDL team with their profile pictures. Please contact us for a full description as there isn't space to list everyone here in the alt text"}
+
 ## The JRG dataset
 
 Back in March, the Job-Ready Graduates bill reversal called for submissions. We decided we may as well start as we meant to continue, and with some rapid processing put together a dataset of all mentions of the bill in Federal Hansard proceedings and [published it on Zenodo](https://zenodo.org/records/18946597) for the public to use in preparing their submissions. 
