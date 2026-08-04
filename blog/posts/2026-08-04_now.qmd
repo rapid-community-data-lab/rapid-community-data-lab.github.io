@@ -1,0 +1,15 @@
+---
+title: "04 Aug 2026: Currently working"
+author: "Eve Ansell"
+date: "2026-08-04 16:07"
+categories: [week_notes]
+---
+
+Notes from last week carried forward. 
+
+... Working on a functional data portal
+
+... Metadata profile under review
+
+... Testing downloadable datasets
+

@@ -9,8 +9,29 @@
 <link>https://rapid-community-data-lab.github.io/blog/</link>
 <atom:link href="https://rapid-community-data-lab.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>The RAPID-CDL blog: news, events, and WIP</description>
-<generator>quarto-1.9.36</generator>
-<lastBuildDate>Thu, 30 Jul 2026 14:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Tue, 04 Aug 2026 06:07:00 GMT</lastBuildDate>
+<item>
+  <title>04 Aug 2026: Currently working</title>
+  <dc:creator>Eve Ansell</dc:creator>
+  <link>https://rapid-community-data-lab.github.io/blog/posts/2026-08-04_now.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Notes from last week carried forward.</p>
+<p>… Working on a functional data portal</p>
+<p>… Metadata profile under review</p>
+<p>… Testing downloadable datasets</p>
+
+
+
+ ]]></description>
+  <category>week_notes</category>
+  <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-08-04_now.html</guid>
+  <pubDate>Tue, 04 Aug 2026 06:07:00 GMT</pubDate>
+</item>
 <item>
   <title>Newsletter 2026 Q1 &amp; Q2</title>
   <dc:creator>Eve Ansell</dc:creator>
@@ -447,26 +468,6 @@
   <category>data</category>
   <guid>https://rapid-community-data-lab.github.io/blog/posts/job-ready-graduates-announce/</guid>
   <pubDate>Wed, 11 Mar 2026 14:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>11 Mar 2026: Currently working</title>
-  <dc:creator>Eve Ansell</dc:creator>
-  <link>https://rapid-community-data-lab.github.io/blog/posts/2026-03-11_now.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Getting ready to release a dataset, pretty rapid, right?…..</p>
-<p>Thinking about raisins (<em>currantly</em>)….</p>
-<p>The cat thing still…</p>
-
-
-
- ]]></description>
-  <category>week_notes</category>
-  <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-03-11_now.html</guid>
-  <pubDate>Tue, 10 Mar 2026 14:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
